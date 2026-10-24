@@ -1,0 +1,12 @@
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\bin\Release\net8.0\BiltonsYoyoMod.deps.json
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\bin\Release\net8.0\BiltonsYoyoMod.dll
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\bin\Release\net8.0\BiltonsYoyoMod.pdb
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\BiltonsYoyoMod.csproj.AssemblyReference.cache
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\BiltonsYoyoMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\BiltonsYoyoMod.AssemblyInfoInputs.cache
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\BiltonsYoyoMod.AssemblyInfo.cs
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\BiltonsYoyoMod.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\BiltonsYoyoMod.dll
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\refint\BiltonsYoyoMod.dll
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\BiltonsYoyoMod.pdb
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\BiltonsYoyoMod\obj\Release\net8.0\ref\BiltonsYoyoMod.dll

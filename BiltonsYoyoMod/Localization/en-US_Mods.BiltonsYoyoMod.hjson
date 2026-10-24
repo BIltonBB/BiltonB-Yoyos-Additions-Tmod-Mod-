@@ -1,0 +1,3139 @@
+# This file will automatically update with entries for new content after a build and reload.
+Items: {
+	IllegalYoyoParts: {
+		DisplayName: Illegal Yoyo Parts
+		Tooltip: Smuggled precision bits. No serial numbers.
+	}
+
+	GoldYoyo: {
+		DisplayName: Gold Yoyo
+		Tooltip: Hits may gild enemies for extra coins. The fatter your wallet, the harder it hits (up to +50%).
+	}
+
+	GoldenString: {
+		DisplayName: Golden String
+		Tooltip:
+			'''
+			+6% yoyo damage
+			+4% yoyo critical strike chance
+			Dyes your string gold and sheds golden dust
+			'''
+	}
+
+	GoldenCounterweight: {
+		DisplayName: Odd Golden Counterweight
+		Tooltip:
+			'''
+			+4% yoyo damage
+			+10% yoyo critical strike chance
+			Yoyo hits shower spare change
+			'''
+	}
+
+	LuckyYoyo: {
+		DisplayName: Lucky Yoyo
+		Tooltip: Suspiciously fortunate. +10% crit while held. Damage grows with progression; crits call seeking stars in Hardmode.
+	}
+
+	IllegalYoyo: {
+		DisplayName: Illegal Yoyo
+		Tooltip: Banned in three biomes. Punches through armor. Erupts in a shockwave about every 1.5 seconds.
+	}
+
+	StringersSpecial: {
+		DisplayName: Stringer's Special
+		Tooltip: Six Stringer's personal yoyo. Hurls pocket change at nearby enemies.
+	}
+
+	SmugglersGyroHarness: {
+		DisplayName: Smuggler's Gyro-Harness
+		Tooltip:
+			'''
+			Black-market counterweight rig.
+			+8% yoyo damage, +8% yoyo critical strike chance, +4 defense
+			'''
+	}
+
+	SuperGoldYoyo: {
+		DisplayName: Super Gold Yoyo
+		Tooltip: Absurdly heavy. Gilds everything it touches. Hits shove enemies back.
+	}
+
+	AncientCounterweight: {
+		DisplayName: Ancient Counterweight
+		Tooltip:
+			'''
+			+12% yoyo damage
+			+12 yoyo armor penetration
+			First yoyo hit snaps a counterweight into orbit
+			'''
+	}
+
+	AncientYoyoCase: {
+		DisplayName: Ancient Yoyo Case
+		Tooltip:
+			'''
+			Relic case: tricks, strings, bearings, pads, axles, counterweights
+			+5% yoyo damage
+			Holds emblem, accessory and potion
+			'''
+	}
+
+	EnchantedYoyo: {
+		DisplayName: Enchanted Yoyo
+		Tooltip: Drifts toward enemies. Every hit calls a star down.
+	}
+
+	AncientString: {
+		DisplayName: Ancient String
+		Tooltip:
+			'''
+			+6% yoyo damage
+			Dyes your string celestial blue
+			Pickups route through your yoyo and collect instantly
+			'''
+	}
+
+	CultistYoyo: {
+		DisplayName: Cultist Yoyo
+		Tooltip: It was already spinning when he found it. Hits loose seeking shadowflame wisps.
+	}
+
+	ForbiddenYoyo: {
+		DisplayName: Forbidden Yoyo
+		Tooltip: Some texts should stay closed. Siphons life on hit, but sometimes it bites back.
+	}
+
+	AncientYoyoAccessory: {
+		DisplayName: Ancient Yoyo Charm
+		Tooltip:
+			'''
+			An idol of the spinning circle.
+			+3 tiles yoyo reach, +15% yoyo speed, +40% flight time, +10% yoyo critical strike chance
+			'''
+	}
+
+	AncientYoyoGlove: {
+		DisplayName: Ancient Yoyo Glove
+		Tooltip:
+			'''
+			Woven before the old stones were old.
+			Counts as a Yoyo Glove: throws a duplicate yoyo
+			Yoyos pierce +1 and fly 12% faster, +8% yoyo critical strike chance
+			Hits shed orbiting embers, kills burst into them
+			'''
+	}
+
+	CelestialYoyoAccessory: {
+		DisplayName: Celestial Yoyo Charm
+		Tooltip:
+			'''
+			Hums with pillar-light.
+			+18% yoyo damage, +10% yoyo critical strike chance
+			Regenerates life while the main yoyo is deployed
+			Main-yoyo hits may shake loose hearts and stars
+			'''
+	}
+
+	AncientYoyoRelic: {
+		DisplayName: Ancient Yoyo Relic
+		Tooltip:
+			'''
+			The circle, perfected.
+			Yoyo hits shed orbiting relic sparks, +8 defense
+			Regenerates life while the main yoyo is deployed
+			'''
+	}
+
+	SeleneCoilYoyo: {
+		DisplayName: Moonlit Coil
+		Tooltip: A coil of captured moonlight. Extremely long reach. Stronger at night, weaker by day. Exhales frost on moonlit nights.
+	}
+
+	Yoyo: {
+		DisplayName: Yoyo
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	RoyalYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Every second fires 10 spikes
+			Ability:
+			A downward swipe triggers Crush
+			Crush doubles damage for 2 seconds and causes explosions
+			10 second cooldown
+			'''
+		DisplayName: Royal Yoyo
+	}
+
+	EyeYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Every 5 seconds, dashes toward a nearby enemy
+			Dash hits deal double damage
+			'''
+		DisplayName: Eye Yoyo
+	}
+
+	DeerYoyo: {
+		DisplayName: Deer Yoyo
+		Tooltip:
+			'''
+			Ability:
+			On hit, creates a stationary frost shockwave
+			The shockwave lasts 7 seconds
+			Effect:
+			Frostburn
+			'''
+	}
+
+	SkeletronYoyo: {
+		DisplayName: Skeletron Yoyo
+		Tooltip:
+			'''
+			Ability:
+			Spawns 2 orbiting bones
+			The bones chase enemies struck by the yoyo
+			Effect:
+			Broken Armor
+			'''
+	}
+
+	BeeYoyo: {
+		DisplayName: Bee Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Shoots honey droplets every 0.5 seconds
+			Creates a large damaging radius
+			Effect:
+			Poison
+			Slowness
+			'''
+	}
+
+	CrimsonYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Lower HP spawns more orbiting clones
+			Up to 15 clones
+			1 clone per 50 missing HP
+			Clones deal 50% damage
+			Effect:
+			Ichor
+			'''
+		DisplayName: Crimson Yoyo
+	}
+
+	CorruptionYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Fires spikes every 0.25 seconds
+			Leaves a distance-based projectile trail
+			Effect:
+			Cursed Inferno
+			'''
+		DisplayName: Corruption Yoyo
+	}
+
+	FleshYoyo: {
+		DisplayName: Flesh Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Spawns 3 orbiting minions
+			Fires a spread of 5 purple lasers every 5 seconds
+			The laser direction changes between attacks
+			'''
+	}
+
+	YoyoSubEmblem: {
+		Tooltip: +5% increased yoyo damage
+		DisplayName: Yoyo Sub-Emblem
+	}
+
+	GoldenYoyoSubEmblem: {
+		DisplayName: Golden Yoyo Emblem
+		Tooltip: +10% increased yoyo damage
+	}
+
+	HallowYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Fires crystal shards that explode into more crystals
+			Ability:
+			Hits also fire crystal shards
+			Effect:
+			Broken Armor
+			'''
+		DisplayName: Hallow Yoyo
+	}
+
+	DestroyerYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Spawns a 10-segment mechanical worm
+			A second worm spawns to hunt enemies if you are below 50% HP
+			'''
+		DisplayName: Destroyer Yoyo
+	}
+
+	TwinsYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Uses Retinazer and Spazmatism attacks
+			One Twin becomes the main yoyo
+			The other Twin becomes an orbiting companion
+			'''
+		DisplayName: Twins Yoyo
+	}
+
+	PrimeYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Commands 4 specialized Prime weapons
+			Every 20 seconds, enters double damage mode
+			Double damage mode lasts 5 seconds
+			Spin speed is doubled during double damage mode
+			'''
+		DisplayName: Prime Yoyo
+	}
+
+	PlanteraYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Phase 1:
+			Shoots seeds
+			Phase 2:
+			Spawns 10 aggressive Plantera eaters
+			Eaters attack nearby enemies
+			Ability:
+			Below 75% HP, triggers Phase 2
+			Effect:
+			Poison
+			Slowness
+			'''
+		DisplayName: Plantera Yoyo
+	}
+
+	GolemYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Orbiting fists track nearby targets
+			Taking projectile damage to the yoyo spawns a Core
+			The Core fires lasers
+			The Core eventually explodes for 2x damage
+			'''
+		DisplayName: Golem Yoyo
+	}
+
+	GuardianYoyo: {
+		DisplayName: Guardian Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Every second fires a homing guardian star
+			Every second telegraphs, then fires pointed shots in opposite directions
+			Dropped by the Yoyo Guardian in the Underground
+			'''
+	}
+
+	CGuardianYoyo: {
+		DisplayName: Charged Guardian Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Every 0.5 seconds fires a homing guardian star for 1.25x damage
+			Every 0.5 seconds telegraphs, then fires pointed shots in opposite directions
+			Dropped by the Yoyo Guardian in the Underworld
+			'''
+	}
+
+	GuardianCoreM: {
+		DisplayName: Guardian Core
+		Tooltip: A fragment of the Yoyo Guardian's power
+	}
+
+	PureEmblemY: {
+		DisplayName: Pure Emblem (Yoyo)
+		Tooltip:
+			'''
+			A purified fragment of the Yoyo Guardian's power
+			Crafting material for yoyo gear
+			'''
+	}
+
+	UnderworldYGBag: {
+		DisplayName: Treasure Bag (Underworld Guardian)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	UndergroundYGBag: {
+		DisplayName: Treasure Bag (Underground Guardian)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	DukeYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Maintains a permanent damaging whirlpool
+			Every 5 seconds releases bubble rings and mini-vortices
+			'''
+		DisplayName: Duke Yoyo
+	}
+
+	EmpressYoyo: {
+		DisplayName: Empress Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Cycles between Homing Bolts and Ring Sprays
+			Changes attacks between day and night
+			Ability:
+			Crossing the 50% HP threshold triggers a rainbow lance sequence
+			'''
+	}
+
+	LunaticYoyo: {
+		DisplayName: Lunatic Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Cycles through lightning, ice, and clone attacks
+			'''
+	}
+
+	SolarYoyo: {
+		Tooltip:
+			'''
+			Ability:
+			Hits create explosions around enemies
+			Effect:
+			On Fire
+			'''
+		DisplayName: Solar Yoyo
+	}
+
+	LordYoyo: {
+		Tooltip:
+			'''
+			Passive Ability:
+			Has 3 Cores
+			Has 5 Cores at P2
+			Ability:
+			Special events trigger at 50%, 25%, and 10% HP
+			'''
+		DisplayName: Lord Yoyo
+	}
+
+	IceQueenYoyo: {
+		DisplayName: Ice Queen Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Every 10 seconds calls down ice shards for 7.5 seconds
+			Alternates between shard rain and shard bursts
+			Dashes toward nearby enemies while idle
+			Effect:
+			Frostburn
+			'''
+	}
+
+	MartianYoyo: {
+		DisplayName: Martian Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			10 second cycle: homing missiles, then lasers, then a death ray
+			Effect:
+			Electrified
+			'''
+	}
+
+	BetsyYoyo: {
+		DisplayName: Betsy Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Cycles through dashes, falling flames, fireballs, and fire breath
+			Effect:
+			On Fire
+			'''
+	}
+
+	DeveloperYoyo: {
+		DisplayName: Developer Yoyo
+		Tooltip:
+			'''
+			Obtainable in Hardmode
+			Extremely goofy
+			Absurd knockback, questionable damage
+			Occasionally hurls a rainbow projectile that deals no damage
+			'''
+	}
+
+	YoyoAdrenalineA: {
+		Tooltip:
+			'''
+			While equipped, a charge bar appears
+			100 hits on enemies fills the bar
+			Full charge grants 1.5x yoyo damage for 5 seconds
+			'''
+		DisplayName: Yoyo Adrenaline
+	}
+
+	YoyoDashA: {
+		DisplayName: Yoyo Dash
+		Tooltip:
+			'''
+			While a yoyo is out, right-click to dash it toward your cursor
+			Dash hits deal 2x damage
+			1 second cooldown
+			'''
+	}
+
+	WildStringsAC: {
+		DisplayName: Cotton String
+		Tooltip:
+			'''
+			Tier 0 Wild String
+			Deals 5 damage
+			Orbits the player
+			Slows enemies on hit
+			Rotation speed and damage is halved after the first successful hit
+			'''
+	}
+
+	WildStringsAN: {
+		DisplayName: Nylon String
+		Tooltip:
+			'''
+			Tier 7 Wild String
+			Deals 65 damage
+			Grants the yoyo +10 armor penetration
+			Orbits the player
+			Retracts after 8 hits
+			Then rebounds with a powerful spin based on built-up tension
+			'''
+	}
+
+	WildStringsAK: {
+		DisplayName: Kevlar String
+		Tooltip:
+			'''
+			Tier 9 Wild String
+			Deals 120 damage
+			Orbits the player
+			Hits have a 10% chance to spawn a Loose Bearing
+			The Loose Bearing spawns directly from the string's endpoint
+			'''
+	}
+
+	WildStringsAP: {
+		DisplayName: Polyester String
+		Tooltip:
+			'''
+			Tier 5 Wild String
+			Deals 50 damage
+			Orbits the player
+			Grants +3 armor penetration on every hit
+			'''
+	}
+
+	WildStringsAPC: {
+		DisplayName: Poly-Cotton String
+		Tooltip:
+			'''
+			Tier 2 Wild String
+			Deals 25 damage
+			Orbits the player
+			Pulls hit enemies toward each other with a physical rope link
+			'''
+	}
+
+	LooseBearingsAHA: {
+		DisplayName: Hallowed Bearings
+		Tooltip:
+			'''
+			Tier 6 Loose Bearing
+			75% chance to release a bearing
+			Deals 80 damage
+			Is only half-affected by gravity
+			'''
+	}
+
+	LooseBearingsAHE: {
+		DisplayName: Hellstone Bearings
+		Tooltip:
+			'''
+			Tier 4 Loose Bearing
+			45% chance to release a bearing
+			Deals 30 damage
+			Sets enemies on fire
+			'''
+	}
+
+	LooseBearingsAL: {
+		DisplayName: Luminite Bearings
+		Tooltip:
+			'''
+			Tier 10 Loose Bearing
+			80% chance to release an extremely fast bearing
+			Deals 200 damage
+			Features weak homing
+			Has infinite piercing
+			Bounces off walls
+			'''
+	}
+
+	LooseBearingsAM: {
+		DisplayName: Mythril Bearings
+		Tooltip:
+			'''
+			Tier 6 Loose Bearing
+			60% chance to release a bearing
+			Deals 50 damage
+			Deals 1.5x damage while moving downward
+			'''
+	}
+
+	LooseBearingsAW: {
+		DisplayName: Wooden Bearings
+		Tooltip:
+			'''
+			Tier 1 Loose Bearing
+			25% chance to release a slow-moving bearing
+			Deals 15 damage
+			'''
+	}
+
+	LooseBearingsACH: {
+		DisplayName: Chlorophyte Bearings
+		Tooltip:
+			'''
+			Tier 8 Loose Bearing
+			70% chance to release a homing bearing
+			Deals 110 damage
+			'''
+	}
+
+	LooseBearingsAMI: {
+		DisplayName: Meteorite Bearings
+		Tooltip:
+			'''
+			Tier 3 Loose Bearing
+			35% chance to release a bearing
+			Deals 22 damage
+			Causes a small fiery explosion on impact
+			'''
+	}
+
+	TensionBearingAP: {
+		DisplayName: Tension Bearing
+		Tooltip:
+			'''
+			Tier 4 Tension Bearing
+			Increases yoyo lifetime by 50%
+			Grants 25% faster return speed
+			Returns to the player immediately upon colliding with a tile
+			'''
+	}
+
+	TensionBearingAHPSS: {
+		Tooltip:
+			'''
+			Tier 7 Tension Bearing
+			Increases yoyo lifetime by 35%
+			Increases yoyo damage by 5%
+			Increases yoyo knockback by 5%
+			Grants 75% faster return speed
+			Returns to the player on tile collision
+			Has a 5% chance to cause a 50-damage explosion for the player when the yoyo snaps
+			'''
+		DisplayName: High Precision Bearing
+	}
+
+	TensionBearingAD: {
+		Tooltip:
+			'''
+			Tier 5 Tension Bearing
+			Decreases yoyo lifetime by 30%
+			Grants 50% faster return speed
+			Emits a damaging smoke aura that shreds nearby enemies every 0.4 seconds
+			Returns to the player on tile collision
+			'''
+		DisplayName: Dry Bearing
+	}
+
+	TensionBearingACH: {
+		Tooltip:
+			'''
+			Tier 9 Tension Bearing
+			Increases yoyo damage by 5%
+			Increases yoyo knockback by 5%
+			Increases yoyo lifetime by 5%
+			Grants 100% faster return speed
+			Returns to the player on tile collision
+			Every 10 seconds, yoyo enters Max Spin for 5 seconds
+			Max Spin grants 15% damage and afterimages
+			Has a 15% chance to cause a heavy 100-damage explosion for the player on snap
+			'''
+		DisplayName: Ceramic Hybrid Bearing
+	}
+
+	TensionBearingAL: {
+		DisplayName: Lubed Bearing
+		Tooltip:
+			'''
+			Tier 5 Tension Bearing
+			Increases yoyo lifetime by 25%
+			Increases yoyo damage by 5%
+			Reduces knockback by 15%
+			Grants 50% faster return speed
+			Returns to the player on tile collision
+			'''
+	}
+
+	ResponsePadsAB: {
+		DisplayName: Response Pads (Standard)
+		Tooltip: +25% yoyo knockback
+	}
+
+	ResponsePadsACB: {
+		DisplayName: Response Pads (Checkerboard)
+		Tooltip:
+			'''
+			Tier 9 Response Pad
+			Increases yoyo knockback by 30%
+			While returning, the yoyo has a 100% chance to rebound toward a hit target once
+			The yoyo overshoots the target before continuing back to the player
+			'''
+	}
+
+	ResponsePadsAF: {
+		DisplayName: Response Pads (Frictionless)
+		Tooltip:
+			'''
+			Tier 5 Response Pad
+			Reduces yoyo knockback by 40%
+			Grants the yoyo +10 armor penetration
+			'''
+	}
+
+	ResponsePadsAR: {
+		DisplayName: Response Pads (Rubberized)
+		Tooltip:
+			'''
+			Tier 7 Response Pad
+			Grants 50% faster snap-back acceleration
+			The yoyo deals 1.5x damage while returning to the player
+			'''
+	}
+
+	ResponsePadsAS: {
+		DisplayName: Response Pads (Slimline)
+		Tooltip:
+			'''
+			Tier 4 Response Pad
+			Increases initial yoyo throw speed by 10%
+			Increases return acceleration by 15%
+			'''
+	}
+
+	FingerLoopATW: {
+		Tooltip:
+			'''
+			Tier 1 Finger Loop
+			Establishes a 20 second minimum yoyo lifetime
+			Has a 50% chance for the yoyo to snap into a 2x damage clone upon return
+			'''
+		DisplayName: Finger Loop (Terribly)
+	}
+
+	FingerLoopANW: {
+		Tooltip:
+			'''
+			Tier 3 Finger Loop
+			Grants +5 seconds yoyo lifetime
+			Grants 1.05x yoyo damage
+			Has a 25% chance for the yoyo to snap into a 2x damage clone
+			'''
+		DisplayName: Finger Loop (Nicely)
+	}
+
+	FingerLoopAMW: {
+		Tooltip:
+			'''
+			Tier 9 Finger Loop
+			Grants +12 seconds yoyo lifetime
+			Grants 1.15x yoyo damage
+			Snapping is disabled
+			'''
+		DisplayName: Finger Loop (Masterfully)
+	}
+
+	FingerLoopAEW: {
+		Tooltip:
+			'''
+			Tier 6 Finger Loop
+			Grants +8 seconds yoyo lifetime
+			Grants 1.10x yoyo damage
+			Has a 5% chance for the yoyo to snap
+			'''
+		DisplayName: Finger Loop (Expertly)
+	}
+
+	YoyoAxleLW: {
+		DisplayName: Loose Wrapped Axle
+		Tooltip:
+			'''
+			Tier 5 Yoyo Axle
+			The yoyo bounces off tiles with a 50% speed boost
+			Every bounce extends the yoyo's remaining lifetime by 3 seconds
+			'''
+	}
+
+	YoyoAxleOW: {
+		DisplayName: Over Wrapped Axle
+		Tooltip:
+			'''
+			Tier 3 Yoyo Axle
+			Reduces yoyo lifetime to 20% of its normal duration
+			When forced to return, the yoyo deals 3x damage to enemies in its path
+			'''
+	}
+
+	YoyoAxleTW: {
+		DisplayName: Tight Wrapped Axle
+		Tooltip:
+			'''
+			Tier 6 Yoyo Axle
+			Grants 20% increased yoyo damage
+			The yoyo randomly forces itself to return between 5 and 100 seconds after being thrown
+			'''
+	}
+
+	YoyoAxleUW: {
+		DisplayName: Under Wrapped Axle
+		Tooltip:
+			'''
+			Tier 1 Yoyo Axle
+			Grants 20% increased yoyo damage
+			While channeling, the yoyo remains released indefinitely
+			The yoyo moves toward your mouse cursor
+			'''
+	}
+
+	YoyoDuplicatorA: {
+		DisplayName: Yoyo Dupli T1
+		Tooltip: Increases the number of yoyo copies and Loose Bearing shots by 1
+	}
+
+	YoyoDuplicatorAA: {
+		DisplayName: Yoyo Dupli T2
+		Tooltip: Increases the number of yoyo copies and Loose Bearing shots by 2
+	}
+
+	YoyoDuplicatorAHD: {
+		DisplayName: Yoyo Dupli T3
+		Tooltip: Increases the number of yoyo copies and Loose Bearing shots by 3
+	}
+
+	YoyoDuplicatorAP: {
+		DisplayName: Yoyo Dupli T4
+		Tooltip: Increases the number of yoyo copies and Loose Bearing shots by 4
+	}
+
+	StringCutterAS: {
+		Tooltip:
+			'''
+			Tier 7 String Cutter
+			Detaching a yoyo bursts 16 sharp fibers
+			Fibers deal 50% damage
+			Applies Bleeding to all enemies in a large radius
+			'''
+		DisplayName: Serrated String Cutter
+	}
+
+	StringCutterAH: {
+		Tooltip:
+			'''
+			Tier 5 String Cutter
+			Detached yoyos apply On Fire!
+			Detached yoyos emit damaging embers while moving
+			'''
+		DisplayName: Heated String Cutter
+	}
+
+	StringCutterA: {
+		Tooltip:
+			'''
+			Tier 4 String Cutter
+			Press V to detach your active yoyo as a free-moving projectile
+			Detached yoyos have 67.5% of their original range
+			Can have up to 3 detached yoyos at once
+			'''
+		DisplayName: String Cutter
+	}
+
+	YoyoTrickTS: {
+		Tooltip:
+			'''
+			Completed by holding the yoyo stationary
+			Grants +20% damage for 5 seconds
+			Grants +5 seconds yoyo lifetime
+			'''
+		DisplayName: Sleeper Trick
+	}
+
+	YoyoTrickAWTD: {
+		Tooltip:
+			'''
+			Completed by tracing a horizontal line with your yoyo
+			Spawns a companion clone
+			The clone bounces on a target
+			The clone deals 50% damage
+			'''
+		DisplayName: Walk The Dog Trick
+	}
+
+	YoyoTrickATE: {
+		Tooltip:
+			'''
+			Completed via 3 timing prompts
+			Locks the yoyo in place for 20 seconds
+			On the first hit, expands an ice ring
+			Drops 5 clones from the sky
+			The clones deal massive damage
+			'''
+		DisplayName: Elevator Trick
+	}
+
+	YoyoTrickAET: {
+		Tooltip:
+			'''
+			Completed by tracing a stationary triangle
+			Creates a damaging field for 10 seconds
+			Deals 2 damage every 0.1 seconds to enemies in the field
+			'''
+		DisplayName: Eiffel Tower Trick
+	}
+
+	YoyoTrickADNA: {
+		Tooltip:
+			'''
+			Completed via 6 timing prompts
+			Creates a rotating octagon field
+			Creates 3 orbiting yoyo clones
+			Orbiting clones deal 33% damage
+			The effects last for 20 seconds
+			Enemies in the octagon take 10 damage every 0.1 seconds
+			'''
+		DisplayName: DNA Trick
+	}
+
+	YoyoTrickABB: {
+		Tooltip:
+			'''
+			Completed by moving the yoyo through 3 targets
+			Launches 5 bouncing copies of your yoyo
+			Copies deal 50% damage
+			Copies last for 11 seconds
+			'''
+		DisplayName: Boingy Boing Trick
+	}
+
+	YoyoCollectionCaseA: {
+		DisplayName: Yoyo Collection Case
+		Tooltip:
+			'''
+			Provides 3 specialized storage slots
+			Increases Yoyo Trick damage by 5%
+			'''
+	}
+
+	YoyoCaseA: {
+		Tooltip: Provides 1 specialized storage slot for yoyo gear
+		DisplayName: Yoyo Case
+	}
+
+	YoyoBriefCaseA: {
+		Tooltip: Provides 3 specialized storage slots for yoyo gear
+		DisplayName: Yoyo Briefcase
+	}
+
+	YoyoBackPackA: {
+		Tooltip: Provides 8 specialized storage slots for yoyo gear
+		DisplayName: Yoyo Backpack
+	}
+
+	YoyoDualCaseA: {
+		DisplayName: Yoyo Dual Case
+		Tooltip: Provides 2 specialized storage slots for yoyo gear
+	}
+
+	YoyoRuckSackA: {
+		DisplayName: Yoyo Rucksack
+		Tooltip:
+			'''
+			Provides 14 specialized storage slots
+			Increases Yoyo Trick damage by 5%
+			'''
+	}
+
+	YoyoShimmerBackPackA: {
+		DisplayName: Shimmer Backpack
+		Tooltip:
+			'''
+			Provides 11 specialized storage slots
+			Allows yoyos to pass through solid blocks
+			'''
+	}
+
+	YoyoShimmerRuckSackA: {
+		DisplayName: Shimmer Rucksack
+		Tooltip:
+			'''
+			Provides 15 specialized storage slots
+			Allows yoyos to pass through solid blocks
+			Increases yoyo and Yoyo Trick damage by 5%
+			'''
+	}
+
+	YoyoShimmerVaultA: {
+		DisplayName: Shimmer Vault
+		Tooltip:
+			'''
+			Provides 20 specialized storage slots
+			Allows yoyos to pass through solid blocks
+			Increases yoyo and Yoyo Trick damage by 15%
+			'''
+	}
+
+	YoyoVaultA: {
+		DisplayName: Yoyo Vault
+		Tooltip:
+			'''
+			Provides 17 specialized storage slots
+			Increases yoyo damage by 10%
+			Increases Yoyo Trick damage by 5%
+			'''
+	}
+
+	TierEmblemMold: {
+		Tooltip: A basic cast used to forge Early-Game to Mid-Hardmode Tier Emblems.
+		DisplayName: Tier Emblem Mold
+	}
+
+	T9Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T9 Emblem
+	}
+
+	T8Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T8 Emblem
+	}
+
+	T7Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T7 Emblem
+	}
+
+	T6Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T6 Emblem
+	}
+
+	T5Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T5 Emblem
+	}
+
+	T4Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T4 Emblem
+	}
+
+	T3Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T3 Emblem
+	}
+
+	T2Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T2 Emblem
+	}
+
+	T1Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T1 Emblem
+	}
+
+	T10Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T10 Emblem
+	}
+
+	T0Emblem: {
+		Tooltip: A symbol of your yoyo mastery. Used as a core material for crafting tiered yoyo accessories and tricks.
+		DisplayName: T0 Emblem
+	}
+
+	AdvancedTierEmblemMold: {
+		Tooltip: A reinforced cast used to forge Late-Hardmode and Endgame Tier Emblems.
+		DisplayName: Advanced Emblem Mold
+	}
+
+	TrialOfTheGuardian: {
+		Tooltip: Use deep underground to challenge the Yoyo Guardian (sold post-Plantera)
+		DisplayName: Trial Of The Guardian
+	}
+
+	OldWantedPaper: {
+		Tooltip: Use in the desert to challenge the Cowboys of Yoyos
+		DisplayName: Old Wanted Paper
+	}
+
+	SpecializedYoyo: {
+		DisplayName: Specialized Yoyo
+		Tooltip: Hits blast enemies away from you
+	}
+
+	HeavyYoyo: {
+		DisplayName: Heavy Yoyo
+		Tooltip: Hits erupt in a heavy shockwave
+	}
+
+	AncientYoyo: {
+		DisplayName: Ancient Yoyo
+		Tooltip: Burns nearby enemies with an ancient aura
+	}
+
+	RandomYoyo: {
+		DisplayName: Random Yoyo
+		Tooltip: Slow and short, but it hits like a truck. Nice.
+	}
+
+	YoyoOfInsight: {
+		DisplayName: Yoyo of Insight
+		Tooltip: Reveals the luck hidden in yoyo kills for 10 minutes
+	}
+
+	YoyoWisdom: {
+		DisplayName: Yoyo Wisdom
+		Tooltip:
+			'''
+			Permanently increases yoyo critical strike chance by 5%
+			Can only be consumed once
+			'''
+	}
+
+	YoyoScraps: {
+		DisplayName: Yoyo Scraps
+		Tooltip: Salvaged yoyo bits. Crafting material for cases, bearings and parts.
+	}
+
+	YoyoParts: {
+		DisplayName: Yoyo Parts
+		Tooltip: Usable yoyo components. Crafting material for cases, bearings and strings.
+	}
+
+	AdvancedYoyoParts: {
+		DisplayName: Advanced Yoyo Parts
+		Tooltip: Precision-machined parts. Crafting material for Hardmode yoyo gear.
+	}
+
+	AncientScraps: {
+		DisplayName: Ancient Scraps
+		Tooltip: Rune-etched fragments. Crafting material for ancient relics and cultist tonics.
+	}
+
+	MagicalEssence: {
+		DisplayName: Magical Essence
+		Tooltip: Throw into shimmer for a random gem
+	}
+
+	TangledStrings: {
+		DisplayName: Tangled Strings
+		Tooltip:
+			'''
+			Increases yoyo range by 50
+			Your yoyo string tears into enemies it touches
+			'''
+	}
+
+	BarbedStrings: {
+		DisplayName: Barbed Strings
+		Tooltip:
+			'''
+			Increases yoyo range by 100
+			Your yoyo string shreds enemies it touches
+			+5 armor penetration
+			'''
+	}
+
+	BearingCaller: {
+		DisplayName: Bearing Caller
+		Tooltip: Starts a Bearing Party (consumable)
+	}
+
+	TravellersCaller: {
+		DisplayName: Travellers Caller
+		Tooltip: Calls the Six Stringer at night (requires Cowboys and Eye defeated)
+	}
+
+	AllKnowingWormItem: {
+		DisplayName: All Knowing Worm Item
+		Tooltip:
+			'''
+			Releases an All-Knowing Worm
+			500% bait power
+			'''
+	}
+
+	GemBearingItem: {
+		DisplayName: Gem Bearing Item
+		Tooltip: Releases a Gem Bearing critter
+	}
+
+	GoldBearingItem: {
+		DisplayName: Gold Bearing Item
+		Tooltip: Releases a Gold Bearing critter
+	}
+
+	GoldenStringsItem: {
+		DisplayName: Golden Strings Item
+		Tooltip: Releases a Golden Strings critter
+	}
+
+	BearingOil: {
+		DisplayName: Bearing Oil
+		Tooltip: Drink for +10% yoyo damage and +5% yoyo crit chance (4 minutes). Slotted in the Ancient Case potion slot: permanent at 1.2x strength.
+	}
+
+	CultistsDraught: {
+		DisplayName: Cultists Draught
+		Tooltip: Drink for +12% yoyo damage at -4 defense (3 minutes). Slotted in the Ancient Case potion slot: permanent at 1.2x strength.
+	}
+
+	HoneySpool: {
+		DisplayName: Honey Spool
+		Tooltip: Trail food wound on a spool. Eat for Well Fed (8 minutes): minor boosts to all stats. Slotted in the Ancient Case potion slot: permanent.
+	}
+
+	StringWax: {
+		DisplayName: String Wax
+		Tooltip: Drink for +8% yoyo damage (8 minutes). Slotted in the Ancient Case potion slot: permanent at 1.2x strength.
+	}
+
+	MoonlightFlask: {
+		DisplayName: Moonlight Flask
+		Tooltip: Drink for +6% yoyo crit chance and +20 max mana (5 minutes). Slotted in the Ancient Case potion slot: permanent at 1.2x strength.
+	}
+
+	AncientWantedPaper: {
+		DisplayName: Ancient Wanted Paper
+		Tooltip: Summons the Ancient Duelist (sold after Golem)
+	}
+
+	AdjustmentMachineItem: {
+		DisplayName: Adjustment Machine Item
+		Tooltip: ""
+	}
+
+	CalibratingMachineItem: {
+		DisplayName: Calibrating Machine Item
+		Tooltip: ""
+	}
+
+	MagicalAdjustmentMachineItem: {
+		DisplayName: Magical Adjustment Machine Item
+		Tooltip: ""
+	}
+
+	SpecializedAdjustmentMachineItem: {
+		DisplayName: Specialized Adjustment Machine Item
+		Tooltip: ""
+	}
+
+	SpecializedTinkeringMachineItem: {
+		DisplayName: Specialized Tinkering Machine Item
+		Tooltip: ""
+	}
+
+	TinkeringMachineItem: {
+		DisplayName: Tinkering Machine Item
+		Tooltip: ""
+	}
+
+	YoyoResonatorItem: {
+		DisplayName: Yoyo Resonator
+		Tooltip:
+			'''
+			Placeable device: yoyo hits weaken enemies while you are in radius
+			Dissonant Hum: -6% enemy contact damage for 3s (yoyos only)
+			Right-click to upgrade potency, duration and radius
+			'''
+	}
+
+	RiftAnchorItem: {
+		DisplayName: Rift Anchor
+		Tooltip:
+			'''
+			Placeable positioning device: select one active anchor, then press Rift Snap
+			Snap redirects yoyos to the anchor for a burst, then resumes normal flight
+			'''
+	}
+
+	ResearchEngineItem: {
+		DisplayName: Research Engine
+		Tooltip:
+			'''
+			Placeable block: strike it with a yoyo to charge (+50s flight per hit)
+			Right-click: charge modes, 4 release effects, styles, rebound, tech tree
+			'''
+	}
+
+	TorqueEngineItem: {
+		DisplayName: Torque Engine (Old)
+		Tooltip:
+			'''
+			Legacy block: places a Research Engine.
+			Old placed blocks convert automatically.
+			'''
+	}
+
+	YoyoWardItem: {
+		DisplayName: Yoyo Ward
+		Tooltip:
+			'''
+			Placeable support: nearby yoyo town NPCs gain damage, defense and max life
+			Right-click to upgrade damage, defense, vitality and radius (70% refund on downgrade)
+			'''
+	}
+
+	BearingTrapItem: {
+		DisplayName: Bearing Trap Item
+		Tooltip: ""
+	}
+
+	CounterweightSentryItem: {
+		DisplayName: Counterweight Sentry Item
+		Tooltip: ""
+	}
+
+	StringLinkerItem: {
+		DisplayName: String Linker Item
+		Tooltip: ""
+	}
+
+	StringLinkItem: {
+		DisplayName: String Link Item
+		Tooltip: ""
+	}
+
+	WildstringSnareItem: {
+		DisplayName: Wildstring Snare Item
+		Tooltip: ""
+	}
+
+	YoyoTripwireItem: {
+		DisplayName: Yoyo Tripwire Item
+		Tooltip: ""
+	}
+
+	YoyoLicenseT1: {
+		DisplayName: Yoyo License T1
+		Tooltip: ""
+	}
+
+	YoyoLicenseT2: {
+		DisplayName: Yoyo License T2
+		Tooltip: ""
+	}
+
+	YoyoLicenseT3: {
+		DisplayName: Yoyo License T3
+		Tooltip: ""
+	}
+
+	NightYoyoPaintingItem: {
+		DisplayName: Night Yoyo Painting Item
+		Tooltip: ""
+	}
+
+	StringyDayPaintingItem: {
+		DisplayName: Stringy Day Painting Item
+		Tooltip: ""
+	}
+
+	ShinyBallDevItem: {
+		DisplayName: Shiny Ball Dev Item
+		Tooltip: ""
+	}
+
+	YoyoRackItem: {
+		DisplayName: Yoyo Rack Item
+		Tooltip: ""
+	}
+
+	YoyoChestItem: {
+		DisplayName: Yoyo Chest Item
+		Tooltip: ""
+	}
+
+	DarkMageYoyo: {
+		DisplayName: Dark Mage Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Every 20 seconds outdoors, plants a ritual that fires at random enemies
+			Hits bloom a healing seal that mends nearby players
+			'''
+	}
+
+	DreadnautilusYoyo: {
+		DisplayName: Dreadnautilus Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			5 second cycle: blood spray, triple dash shedding orbs, weeping tears
+			Tears orbit then hatch into homing blood squids
+			'''
+	}
+
+	DutchmanYoyo: {
+		DisplayName: Dutchman Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Broadsides of 4 cannonballs every few seconds
+			Can be damaged; destruction forces a burning return
+			Fires at enemies directly while you are hurt
+			'''
+	}
+
+	EverscreamYoyo: {
+		DisplayName: Everscream Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Showers pine needles and bouncing ornament balls
+			Effect:
+			On Fire
+			'''
+	}
+
+	MourningWoodYoyo: {
+		DisplayName: Mourning Wood Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Belches rising flames and lobbed lingering embers
+			Effect:
+			On Fire
+			'''
+	}
+
+	OgreYoyo: {
+		DisplayName: Ogre Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Heavy club swings, slowing spit, and random shockwaves
+			Effect:
+			Poisoned
+			'''
+	}
+
+	PumpkingYoyo: {
+		DisplayName: Pumpking Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Charged blade swings, seeking scythes, and bouncing hellfire
+			Effect:
+			On Fire
+			'''
+	}
+
+	SantaYoyo: {
+		DisplayName: Santa Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			10 second cycle: bullet barrage, then homing missiles
+			Drops rolling spiky balls and parachuting presents
+			'''
+	}
+
+	TorchGodYoyo: {
+		DisplayName: Torch God Yoyo
+		Tooltip:
+			'''
+			Passive Ability:
+			Hurls wild torches plus aimed oathflames at enemies
+			Effect:
+			On Fire
+			'''
+	}
+
+	ThrowableYoyoTech: {
+		DisplayName: Throwable Yoyo Tech
+		Tooltip:
+			'''
+			Hold and use: yoyos become heavy ember throws at 1.5x
+			Gravity + bounces; Glove fans a triple spread
+			Only one tech at a time; missing item = OFF
+			Never consumed; Cycle Tech hotkey works too
+			'''
+	}
+
+	SwingYoyoTech: {
+		DisplayName: Swing Yoyo Tech
+		Tooltip:
+			'''
+			Hold and use: yoyos swing Tinkerer arcs at 2x damage
+			Full spin with Glove, wider with counterweights
+			Only one tech at a time; missing item = OFF
+			Never consumed; Cycle Tech hotkey works too
+			'''
+	}
+
+	MagicalYoyoTech: {
+		DisplayName: Magical Yoyo Tech
+		Tooltip:
+			'''
+			Click to spawn an orbiting mirror guard (4 mana); 2 with a Yoyo Glove
+			Guards space themselves evenly; cap 3, or 6 with a Yoyo Glove
+			Guard life: 1/10 of the yoyo's flight time (20s if infinite)
+			Yoyo damage% boosts guard life and orbit speed
+			Hold right-click: Orbital Convergence - pays a start cost
+			then drains a per-second upkeep while it charges and fires
+			Only one tech at a time; missing item = OFF; never consumed
+			'''
+	}
+
+	SummonYoyoTech: {
+		DisplayName: Summon Yoyo Tech
+		Tooltip:
+			'''
+			Hold and use: yoyos become minions at 0.6x damage
+			Cap: 1 + slots + glove/counterweight/string
+			Linger 5 min after off/switch; buff dismisses all
+			Never consumed; Cycle Tech hotkey works too
+			'''
+	}
+
+	YoyoGuidebookGeneral: {
+		DisplayName: Yoyo Guidebook: General
+		Tooltip: Use to open the General guidebook
+	}
+
+	YoyoGuidebookYoyos: {
+		DisplayName: Yoyo Guidebook: Yoyos
+		Tooltip: Use to open the Yoyos guidebook
+	}
+
+	YoyoGuidebookAccessories: {
+		DisplayName: Yoyo Guidebook: Accessories
+		Tooltip: Use to open the Accessories guidebook
+	}
+
+	YoyoGuidebookOthers: {
+		DisplayName: Yoyo Guidebook: Others
+		Tooltip: Use to open the Others guidebook
+	}
+
+	YoyoGuidebookConsumables: {
+		DisplayName: Yoyo Guidebook: Consumables
+		Tooltip: Use to open the Consumables guidebook
+	}
+
+	YoyoGuidebookBlocksBosses: {
+		DisplayName: Yoyo Guidebook: Blocks & Bosses
+		Tooltip: Use to open the Blocks & Bosses guidebook
+	}
+
+	YoyoIndex: {
+		DisplayName: Yoyo Index
+		Tooltip: Use to open your yoyo collection (every yoyo ever carried)
+	}
+
+	DowsingString: {
+		DisplayName: Dowsing String
+		Tooltip:
+			'''
+			Carry it: marks loose yoyo gear within 160 tiles
+			Otherwise points to yoyo town NPCs
+			Right-click in inventory for ON/OFF, never consumed
+			'''
+	}
+
+	TonicSpool: {
+		DisplayName: Tonic Spool
+		Tooltip:
+			'''
+			Carry it: refreshes yoyo tonics 5 seconds before they expire
+			Spends carried spare doses, never free power
+			Right-click in inventory for ON/OFF, never consumed
+			'''
+	}
+
+	StringSplicer: {
+		DisplayName: String Splicer
+		Tooltip:
+			'''
+			Use or Swap Yoyo (C): next yoyo in the inventory
+			Right-click: previous yoyo
+			Pulls a yoyo into the hotbar if none is ready
+			'''
+	}
+
+	YoyoHook: {
+		DisplayName: Yoyo Hook
+		Tooltip:
+			'''
+			Momentum grapple: swing on the rope instead of being reeled in
+			Equip in the grappling hook slot, or use from the hotbar
+			Attached: W/S shorten or extend the rope, A/D steer the swing
+			Jump or use again to detach and keep your momentum
+			'''
+	}
+}
+
+Buffs: {
+	SummonTechBuff: {
+		DisplayName: Summon Attunement
+		Description: Yoyo summons active - right-click to dismiss them all
+	}
+
+	YoyoInsightBuff: {
+		DisplayName: Yoyo Insight
+		Description: +0.3 luck on yoyo kills
+	}
+
+	MagicalEssence: {
+		DisplayName: Magical Essence
+		Description: Petting the Magical Yoyo pet: +5% yoyo damage
+	}
+
+	BearingGreaseBuff: {
+		DisplayName: Bearing Grease
+		Description: Bearing Oil tonic: +10% yoyo damage, +5% yoyo critical chance
+	}
+
+	CultistFervorBuff: {
+		DisplayName: Cultist Fervor
+		Description: Cultist's Draught: +12% yoyo damage, -4 defense
+	}
+
+	StringWaxBuff: {
+		DisplayName: String Wax
+		Description: String Wax tonic: +8% yoyo damage
+	}
+
+	MoonlitFocusBuff: {
+		DisplayName: Moonlit Focus
+		Description: Moonlight Flask: +6% yoyo critical chance, +20 max mana
+	}
+
+	AnchorBlessingBuff: {
+		DisplayName: Anchor Blessing
+		Description: Ward + Rift Anchor sharing one mesh: +8 defense near the anchor
+	}
+
+	HarmonicHumBuff: {
+		DisplayName: Harmonic Hum
+		Description: Resonator + Ward sharing one mesh: +10% yoyo damage in the field
+	}
+
+	SnapSurgeBuff: {
+		DisplayName: Snap Surge
+		Description: Resonator + Rift Anchor sharing one mesh: +10% yoyo critical chance after a snap
+	}
+
+	DuelistEyeBuff: {
+		DisplayName: Duelist's Eye
+		Description: +8% yoyo critical strike chance
+	}
+
+	FoldMendingBuff: {
+		DisplayName: Fold Mending
+		Description: +6% yoyo damage, wounds close over time
+	}
+
+	LightRiggingBuff: {
+		DisplayName: Light Rigging
+		Description: +12% yoyo velocity, +8% movement speed
+	}
+
+	LongLensesBuff: {
+		DisplayName: Long Lenses
+		Description: +yoyo range, hidden hazards revealed
+	}
+
+	OverdriveBuff: {
+		DisplayName: Overdrive
+		Description: +8% yoyo velocity and range
+	}
+
+	StoneskinPoiseBuff: {
+		DisplayName: Stoneskin Poise
+		Description: +8% yoyo damage, +4 defense
+	}
+
+	StaticChargeBuff: {
+		DisplayName: Static Charge Buff
+		Description: Mods.BiltonsYoyoMod.Buffs.StaticChargeBuff.Description
+	}
+}
+
+Conditions: {
+	DownedTwoMechBosses: Mods.BiltonsYoyoMod.Conditions.DownedTwoMechBosses
+	DownedEvilBoss: Mods.BiltonsYoyoMod.Conditions.DownedEvilBoss
+}
+
+Projectiles: {
+	YoyoTrickCloneProjectile.DisplayName: Yoyo Trick Clone Projectile
+	YoyoTrickBounceProjectile.DisplayName: Yoyo Trick Bounce Projectile
+	WildStringsAPProj.DisplayName: Wild Strings A P Proj
+	WildStringsAPCProj.DisplayName: Wild Strings A P C Proj
+	WildStringsANProj.DisplayName: Wild Strings A N Proj
+	WildStringsAKProj.DisplayName: Wild Strings A K Proj
+	WildStringsACProj.DisplayName: Wild Strings A C Proj
+	WildStringRingProj.DisplayName: Wild String Ring Proj
+	WildStringProjectile.DisplayName: Wild String Projectile
+	WildStringLinkProj.DisplayName: Wild String Link Proj
+	TwinsYoyoProjLaser.DisplayName: Twins Yoyo Proj Laser
+	StringCutterRopeProjectile.DisplayName: String Cutter Rope Projectile
+	StringCutterFiberProjectile.DisplayName: String Cutter Fiber Projectile
+	StringCutterEmberProjectile.DisplayName: String Cutter Ember Projectile
+	SpezmatismTwinsYoyoSpitProj.DisplayName: Spezmatism Twins Yoyo Spit Proj
+	SpezmatismTwinsYoyoProj.DisplayName: Spezmatism Twins Yoyo Proj
+	SpezmatismTwinsYoyoCompanion.DisplayName: Spezmatism Twins Yoyo Companion
+	SolarYoyoProjW.DisplayName: Solar Yoyo Proj W
+	SolarYoyoProjF.DisplayName: Solar Yoyo Proj F
+	SolarYoyoProj.DisplayName: Solar Yoyo Proj
+	SkeletronYoyoProj.DisplayName: Skeletron Yoyo Proj
+	SkeletronYoyoBoneProj.DisplayName: Skeletron Yoyo Bone Proj
+	RoyalYoyoSpikesProj.DisplayName: Royal Yoyo Spikes Proj
+	RoyalYoyoProj.DisplayName: Royal Yoyo Proj
+	RetinazerTwinsYoyoProj.DisplayName: Retinazer Twins Yoyo Proj
+	RetinazerTwinsYoyoCompanion.DisplayName: Retinazer Twins Yoyo Companion
+	PrimeYoyoProjPV.DisplayName: Prime Yoyo Proj P V
+	PrimeYoyoProjPS.DisplayName: Prime Yoyo Proj P S
+	PrimeYoyoProjPL.DisplayName: Prime Yoyo Proj P L
+	PrimeYoyoProjPC.DisplayName: Prime Yoyo Proj P C
+	PrimeYoyoProjLaser.DisplayName: Prime Yoyo Proj Laser
+	PrimeYoyoProjB.DisplayName: Prime Yoyo Proj B
+	PrimeYoyoProj.DisplayName: Prime Yoyo Proj
+	PlanteraYoyoProjSeedler.DisplayName: Plantera Yoyo Proj Seedler
+	PlanteraYoyoProjSeed.DisplayName: Plantera Yoyo Proj Seed
+	PlanteraYoyoProjP2.DisplayName: Plantera Yoyo Proj P2
+	PlanteraYoyoProj.DisplayName: Plantera Yoyo Proj
+	MechanicalLaser.DisplayName: Mechanical Laser
+	LunaticYoyoProjLP.DisplayName: Lunatic Yoyo Proj L P
+	LunaticYoyoProjL.DisplayName: Lunatic Yoyo Proj L
+	LunaticYoyoProjIP.DisplayName: Lunatic Yoyo Proj I P
+	LunaticYoyoProjI.DisplayName: Lunatic Yoyo Proj I
+	LunaticYoyoProjClone.DisplayName: Lunatic Yoyo Proj Clone
+	LunaticYoyoProj.DisplayName: Lunatic Yoyo Proj
+	LordYoyoProjTS2Orb.DisplayName: Lord Yoyo Proj T S2 Orb
+	LordYoyoProjTS2.DisplayName: Lord Yoyo Proj T S2
+	LordYoyoProjTS.DisplayName: Lord Yoyo Proj T S
+	LordYoyoProjTR.DisplayName: Lord Yoyo Proj T R
+	LordYoyoProjTEOC.DisplayName: Lord Yoyo Proj T E O C
+	LordYoyoProjPS.DisplayName: Lord Yoyo Proj P S
+	LordYoyoProjPE.DisplayName: Lord Yoyo Proj P E
+	LordYoyoProjPB.DisplayName: Lord Yoyo Proj P B
+	LordYoyoProjOT.DisplayName: Lord Yoyo Proj O T
+	LordYoyoProjN.DisplayName: Lord Yoyo Proj N
+	LordYoyoProjMN.DisplayName: Lord Yoyo Proj M N
+	LordYoyoProjML.DisplayName: Lord Yoyo Proj M L
+	LordYoyoProjM.DisplayName: Lord Yoyo Proj M
+	LordYoyoProjL.DisplayName: Lord Yoyo Proj L
+	LordYoyoProjK.DisplayName: Lord Yoyo Proj K
+	LordYoyoProjJ.DisplayName: Lord Yoyo Proj J
+	LordYoyoProjIB.DisplayName: Lord Yoyo Proj I B
+	LordYoyoProjI.DisplayName: Lord Yoyo Proj I
+	LordYoyoProjH.DisplayName: Lord Yoyo Proj H
+	LordYoyoProjG.DisplayName: Lord Yoyo Proj G
+	LordYoyoProjF.DisplayName: Lord Yoyo Proj F
+	LordYoyoProjE.DisplayName: Lord Yoyo Proj E
+	LordYoyoProjDR.DisplayName: Lord Yoyo Proj D R
+	LordYoyoProjD.DisplayName: Lord Yoyo Proj D
+	LordYoyoProjC.DisplayName: Lord Yoyo Proj C
+	LordYoyoProjB.DisplayName: Lord Yoyo Proj B
+	LordYoyoProjA.DisplayName: Lord Yoyo Proj A
+	LordYoyoProj.DisplayName: Lord Yoyo Proj
+	LooseBearingsAW.DisplayName: Loose Bearings A W
+	LooseBearingsAMI.DisplayName: Loose Bearings A M I
+	LooseBearingsAM.DisplayName: Loose Bearings A M
+	LooseBearingsAL.DisplayName: Loose Bearings A L
+	LooseBearingsAHE.DisplayName: Loose Bearings A H E
+	LooseBearingsAHA.DisplayName: Loose Bearings A H A
+	LooseBearingsACH.DisplayName: Loose Bearings A C H
+	HallowYoyoProjS.DisplayName: Hallow Yoyo Proj S
+	HallowYoyoProj.DisplayName: Hallow Yoyo Proj
+	HallowYoyoCSProj.DisplayName: Hallow Yoyo C S Proj
+	HallowYoyoCProj.DisplayName: Hallow Yoyo C Proj
+	GolemYoyoProjL.DisplayName: Golem Yoyo Proj L
+	GolemYoyoProjC.DisplayName: Golem Yoyo Proj C
+	GolemYoyoProjB.DisplayName: Golem Yoyo Proj B
+	GolemYoyoProj.DisplayName: Golem Yoyo Proj
+	GuardianYoyoProj.DisplayName: Guardian Yoyo Proj
+	CGuardianYoyoProj.DisplayName: Charged Guardian Yoyo Proj
+	GYStarProj.DisplayName: Guardian Star
+	GYPointedProj.DisplayName: Guardian Pointed Shot
+	GYTelegraphProj.DisplayName: Guardian Telegraph
+	GolemFistYoyoProj.DisplayName: Golem Fist Yoyo Proj
+	FleshYoyoProjMini.DisplayName: Flesh Yoyo Proj Mini
+	FleshYoyoProj.DisplayName: Flesh Yoyo Proj
+	FleshYoyoBeamProj.DisplayName: Flesh Yoyo Beam Proj
+	FingerLoopCloneProjectile.DisplayName: Finger Loop Clone Projectile
+	EyeYoyoRedProj.DisplayName: Eye Yoyo Red Proj
+	EyeYoyoProj.DisplayName: Eye Yoyo Proj
+	EmpressYoyoTransition.DisplayName: Empress Yoyo Transition
+	EmpressYoyoProjS.DisplayName: Empress Yoyo Proj S
+	EmpressYoyoProjPB.DisplayName: Empress Yoyo Proj P B
+	EmpressYoyoProjF.DisplayName: Empress Yoyo Proj F
+	EmpressYoyoProjER.DisplayName: Empress Yoyo Proj E R
+	EmpressYoyoProjEL.DisplayName: Empress Yoyo Proj E L
+	EmpressYoyoProj.DisplayName: Empress Yoyo Proj
+	EmpressYoyoLanceController.DisplayName: Empress Yoyo Lance Controller
+	EmpressYoyoBController.DisplayName: Empress Yoyo B Controller
+	ElevatorCloneProjectile.DisplayName: Elevator Clone Projectile
+	DukeYoyoProjW.DisplayName: Duke Yoyo Proj W
+	DukeYoyoProjV.DisplayName: Duke Yoyo Proj V
+	DukeYoyoProjBubble.DisplayName: Duke Yoyo Proj Bubble
+	DukeYoyoProj.DisplayName: Duke Yoyo Proj
+	DNAOrbitYoyoProjectile.DisplayName: D N A Orbit Yoyo Projectile
+	DestroyerYoyoProjLaser.DisplayName: Destroyer Yoyo Proj Laser
+	DestroyerYoyoProjClone2.DisplayName: Destroyer Yoyo Proj Clone2
+	DestroyerYoyoProjClone.DisplayName: Destroyer Yoyo Proj Clone
+	DestroyerYoyoProj.DisplayName: Destroyer Yoyo Proj
+	DeerYoyoSWProj.DisplayName: Deer Yoyo S W Proj
+	DeerYoyoProj.DisplayName: Deer Yoyo Proj
+	CrimsonYoyoProjClone.DisplayName: Crimson Yoyo Proj Clone
+	CrimsonYoyoProj.DisplayName: Crimson Yoyo Proj
+	CorruptionYoyoSpikesProj.DisplayName: Corruption Yoyo Spikes Proj
+	CorruptionYoyoProjTrail.DisplayName: Corruption Yoyo Proj Trail
+	CorruptionYoyoProj.DisplayName: Corruption Yoyo Proj
+	BeeYoyoRadiusProj.DisplayName: Bee Yoyo Radius Proj
+	BeeYoyoProj.DisplayName: Bee Yoyo Proj
+	BeeYoyoHProj.DisplayName: Bee Yoyo H Proj
+	StoneGuardianYoyo.DisplayName: Stone Guardian Yoyo
+	StarYG.DisplayName: Star Y G
+	PointedYG.DisplayName: Pointed Y G
+	LooseStoneBearingsYG.DisplayName: Loose Stone Bearings Y G
+	HostileCounterweight.DisplayName: Hostile Counterweight
+	CowboyYoyoProjectile.DisplayName: Cowboy Yoyo Projectile
+	CounterweightYG.DisplayName: Counterweight Y G
+	GuardianArenaBox.DisplayName: Guardian Arena Box
+	AncientYoyoProj.DisplayName: Ancient Yoyo Proj
+	HeavyYoyoProj.DisplayName: Heavy Yoyo Proj
+	HeavyYoyoShockwaveProj.DisplayName: Heavy Yoyo Shockwave Proj
+	RandomYoyoProj.DisplayName: Random Yoyo Proj
+	SpecializedYoyoProj.DisplayName: Specialized Yoyo Proj
+	BTBBearing.DisplayName: B T B Bearing
+	BTBUBearing.DisplayName: B T B U Bearing
+	MChlorophyteYoyoProj.DisplayName: M Chlorophyte Yoyo Proj
+	MWoodenYoyoProj.DisplayName: M Wooden Yoyo Proj
+	NPCAdamantiteYoyoProj.DisplayName: N P C Adamantite Yoyo Proj
+	NPCWoodenYoyoProj.DisplayName: N P C Wooden Yoyo Proj
+	TGoldYoyoProj.DisplayName: T Gold Yoyo Proj
+	TMagicYoyoProj.DisplayName: T Magic Yoyo Proj
+	TSuperGoldYoyoProj.DisplayName: T Super Gold Yoyo Proj
+	TSuperMagicYoyoProj.DisplayName: T Super Magic Yoyo Proj
+	OrbiShieldProj.DisplayName: Orbi Shield Proj
+	CoinBoltProj.DisplayName: Coin Bolt Proj
+	CultistYoyoProj.DisplayName: Cultist Yoyo Proj
+	EnchantedYoyoProj.DisplayName: Enchanted Yoyo Proj
+	ForbiddenYoyoProj.DisplayName: Forbidden Yoyo Proj
+	GoldYoyoProj.DisplayName: Gold Yoyo Proj
+	IllegalYoyoProj.DisplayName: Illegal Yoyo Proj
+	LuckyYoyoProj.DisplayName: Lucky Yoyo Proj
+	SeleneCoilProj.DisplayName: Selene Coil Proj
+	StringersSpecialProj.DisplayName: Stringers Special Proj
+	SuperGoldYoyoProj.DisplayName: Super Gold Yoyo Proj
+	CounterweightProj.DisplayName: Counterweight Proj
+	CultistWispProj.DisplayName: Cultist Wisp Proj
+	EnchantSparkProj.DisplayName: Enchant Spark Proj
+	LuckyStarProj.DisplayName: Lucky Star Proj
+	ADCounterweightProj.DisplayName: A D Counterweight Proj
+	ADTrailYoyoProj.DisplayName: A D Trail Yoyo Proj
+	ADYoyoProj.DisplayName: A D Yoyo Proj
+	ADYoyoProjFast.DisplayName: A D Yoyo Proj Fast
+	OrbitCounterweightProj.DisplayName: Orbit Counterweight Proj
+	AncientSparkProj.DisplayName: Ancient Spark Proj
+	SkyfallStarProj.DisplayName: Skyfall Star Proj
+	AncientCounterweightProj.DisplayName: Ancient Counterweight Proj
+	GoldenCounterweightProj.DisplayName: Golden Counterweight Proj
+	HostileCounterweightProj.DisplayName: Hostile Counterweight Proj
+	CustomizationEchoProj.DisplayName: Customization Echo Proj
+	BearingTrapShot.DisplayName: Bearing Trap Shot
+	SentryCounterweightProj.DisplayName: Sentry Counterweight Proj
+	SnareStringProj.DisplayName: Snare String Proj
+	TripwireYoyoProj.DisplayName: Tripwire Yoyo Proj
+	BetsyYoyoBreathProj.DisplayName: Betsy Yoyo Breath Proj
+	BetsyYoyoFireBallProj.DisplayName: Betsy Yoyo Fire Ball Proj
+	BetsyYoyoFireProj.DisplayName: Betsy Yoyo Fire Proj
+	BetsyYoyoProj.DisplayName: Betsy Yoyo Proj
+	DarkMageYoyoMagicProj.DisplayName: Dark Mage Yoyo Magic Proj
+	DarkMageYoyoMagicRitual.DisplayName: Dark Mage Yoyo Magic Ritual
+	DarkMageYoyoProj.DisplayName: Dark Mage Yoyo Proj
+	DeveloperYoyoProj.DisplayName: Developer Yoyo Proj
+	DevYoyoRBProj.DisplayName: Dev Yoyo R B Proj
+	DreadnautilusBloodOrbProj.DisplayName: Dreadnautilus Blood Orb Proj
+	DreadnautilusHomingBloodSquids.DisplayName: Dreadnautilus Homing Blood Squids
+	DreadnautilusTearsProj.DisplayName: Dreadnautilus Tears Proj
+	DreadnautilusYoyoBloodShardProj.DisplayName: Dreadnautilus Yoyo Blood Shard Proj
+	DreadnautilusYoyoProj.DisplayName: Dreadnautilus Yoyo Proj
+	DutchManYoyoCannonProj.DisplayName: Dutch Man Yoyo Cannon Proj
+	DutchmanYoyoProj.DisplayName: Dutchman Yoyo Proj
+	EverscreamYoyoBallProj.DisplayName: Everscream Yoyo Ball Proj
+	EverscreamYoyoNeedleProj.DisplayName: Everscream Yoyo Needle Proj
+	EverscreamYoyoProj.DisplayName: Everscream Yoyo Proj
+	IceQueenYoyoProj.DisplayName: Ice Queen Yoyo Proj
+	IceQueenYoyoShardProj.DisplayName: Ice Queen Yoyo Shard Proj
+	MartianYoyoDeathRayProj.DisplayName: Martian Yoyo Death Ray Proj
+	MartianYoyoLaserProj.DisplayName: Martian Yoyo Laser Proj
+	MartianYoyoMissilesProj.DisplayName: Martian Yoyo Missiles Proj
+	MartianYoyoProj.DisplayName: Martian Yoyo Proj
+	MourningWoodYoyoFireProj.DisplayName: Mourning Wood Yoyo Fire Proj
+	MourningWoodYoyoLingeringProj.DisplayName: Mourning Wood Yoyo Lingering Proj
+	MourningWoodYoyoProj.DisplayName: Mourning Wood Yoyo Proj
+	OgreYoyoClubProj.DisplayName: Ogre Yoyo Club Proj
+	OgreYoyoProj.DisplayName: Ogre Yoyo Proj
+	OgreYoyoSpitProj.DisplayName: Ogre Yoyo Spit Proj
+	PumpkingYoyoBladeProj.DisplayName: Pumpking Yoyo Blade Proj
+	PumpkingYoyoFireProj.DisplayName: Pumpking Yoyo Fire Proj
+	PumpkingYoyoProj.DisplayName: Pumpking Yoyo Proj
+	PumpkingYoyoScytheProj.DisplayName: Pumpking Yoyo Scythe Proj
+	SantaYoyoBulletProj.DisplayName: Santa Yoyo Bullet Proj
+	SantaYoyoMissilesProj.DisplayName: Santa Yoyo Missiles Proj
+	SantaYoyoPresentsProj.DisplayName: Santa Yoyo Presents Proj
+	SantaYoyoProj.DisplayName: Santa Yoyo Proj
+	SantaYoyoSpikyBallProj.DisplayName: Santa Yoyo Spiky Ball Proj
+	TorchGodYoyoProj.DisplayName: Torch God Yoyo Proj
+	TorchGodYoyoTorchProj.DisplayName: Torch God Yoyo Torch Proj
+	EverscreamYoyoBallProj2.DisplayName: Everscream Yoyo Ball Proj2
+	OgreYoyoShockRingProj.DisplayName: Ogre Yoyo Shock Ring Proj
+	DutchmanBlastRingProj.DisplayName: Dutchman Blast Ring Proj
+	SantaPhaseRingProj.DisplayName: Santa Phase Ring Proj
+	YoyoSlashArcProj.DisplayName: Yoyo Slash Arc Proj
+	ThrowableYoyoProj.DisplayName: Throwable Tech Shell
+	SwingYoyoProj.DisplayName: Swing Tech Shell
+	MagicalYoyoProj.DisplayName: Magical Tech Shell
+	BlinkMagicalProj.DisplayName: Blink Strike
+	SummonYoyoMinion.DisplayName: Summon Tech Yoyo
+	TechBoltProj.DisplayName: Tech Bolt
+	DevFishZapperProj.DisplayName: Dev Fish Zapper Proj
+	YoyoVigilProj.DisplayName: Yoyo Vigil Proj
+	YoyoBonusWeightProj.DisplayName: Yoyo Bonus Weight Proj
+	MartianChainBoltProj.DisplayName: Martian Chain Bolt Proj
+	YoyoHookProj.DisplayName: Yoyo Hook Proj
+	MagicalBeamProj.DisplayName: Magical Beam Proj
+	MagicalConvergenceProj.DisplayName: Magical Convergence Proj
+	MagicalBurstProj.DisplayName: Magical Burst Proj
+	MagicalDeployProj.DisplayName: Magical Deploy Proj
+	MagicalStarProj.DisplayName: Magical Star Proj
+	MagicalTetherProj.DisplayName: Magical Tether Proj
+	MagicalZoneProj.DisplayName: Magical Zone Proj
+	MagicalBrandProj.DisplayName: Magical Brand Proj
+	MagicalFeederProj.DisplayName: Magical Feeder Proj
+	MagicalGrowOrbProj.DisplayName: Magical Grow Orb Proj
+	MagicalLifedrainProj.DisplayName: Magical Lifedrain Proj
+	MagicalLightningProj.DisplayName: Magical Lightning Proj
+	MagicalPuddleProj.DisplayName: Magical Puddle Proj
+	MagicalPulseBeamProj.DisplayName: Magical Pulse Beam Proj
+	MagicalPulseCascadeProj.DisplayName: Magical Pulse Cascade Proj
+	MagicalRapidBoltProj.DisplayName: Magical Rapid Bolt Proj
+	MagicalSeedProj.DisplayName: Magical Seed Proj
+	MagicalWeaverProj.DisplayName: Magical Weaver Proj
+	MagicalWormProj.DisplayName: Magical Worm Proj
+	MagicalAnchorProj.DisplayName: Magical Anchor Proj
+	MagicalCastSigilProj.DisplayName: Magical Cast Sigil Proj
+	MagicalSingularityProj.DisplayName: Magical Singularity Proj
+	MagicalSnapTrapProj.DisplayName: Magical Snap Trap Proj
+	MagicalWormSegmentProj.DisplayName: Magical Worm Segment Proj
+	MagicalBallLightningProj.DisplayName: Magical Ball Lightning Proj
+	MagicalBeamAnchorProj.DisplayName: Magical Beam Anchor Proj
+	MagicalChainAnchorProj.DisplayName: Magical Chain Anchor Proj
+	MagicalChainFieldProj.DisplayName: Magical Chain Field Proj
+	MagicalPrismRayProj.DisplayName: Magical Prism Ray Proj
+	MagicalRelayNodeProj.DisplayName: Magical Relay Node Proj
+	MagicalStaticTrailProj.DisplayName: Magical Static Trail Proj
+	MagicalThunderheadProj.DisplayName: Magical Thunderhead Proj
+	MagicalGroundFaultProj.DisplayName: Magical Ground Fault Proj
+}
+
+Keybinds: {
+	"Yoyo Trick.DisplayName": Yoyo  Trick
+	"Cut Yoyo String.DisplayName": Cut  Yoyo  String
+	"Quantum Warp.DisplayName": Quantum  Warp
+	"Rift Snap.DisplayName": Rift  Snap
+	"Cycle Yoyo Tech.DisplayName": Cycle  Yoyo  Tech
+	"Swap Yoyo.DisplayName": Swap  Yoyo
+	"Panic Equip Yoyo.DisplayName": Panic  Equip  Yoyo
+	"Quick Cycle Yoyo.DisplayName": Quick  Cycle  Yoyo
+	"Advance Splice Sequence.DisplayName": Advance  Splice  Sequence
+	"Dowsing Sonar Ping.DisplayName": Dowsing  Sonar  Ping
+	"Toggle Magical Yoyo Tech.DisplayName": Toggle  Magical  Yoyo  Tech
+}
+
+NPCs: {
+	GiantBearing: {
+		DisplayName: Giant Bearing
+		BossChecklistIntegration.SpawnInfo: Appears during the Bearing Party event in the caverns
+	}
+
+	CowboyOfYoyos: {
+		DisplayName: Cowboy Of Yoyos
+		BossChecklistIntegration.SpawnInfo: Use an Old Wanted Paper in the desert - all three cowboys must fall
+	}
+
+	AncientDuelist: {
+		DisplayName: Ancient Duelist
+		BossChecklistIntegration.SpawnInfo: Use an Ancient Wanted Paper (sold by the Yoyo Cultist after Golem)
+	}
+
+	WildBearing.DisplayName: Wild Bearing
+
+	YoyoGuardian: {
+		DisplayName: Yoyo Guardian
+		BossChecklistIntegration.SpawnInfo: Use the Trial of the Guardian deep underground (sold by the Yoyo Master after Plantera)
+	}
+
+	GuardianOrbitShield.DisplayName: Guardian Orbit Shield
+	HostileDestroyerWormBody.DisplayName: Hostile Destroyer Worm Body
+	HostileDestroyerWormHead.DisplayName: Hostile Destroyer Worm Head
+	HostileDestroyerWormTail.DisplayName: Hostile Destroyer Worm Tail
+	StarGuardianNPC.DisplayName: Star Guardian N P C
+	MagicDestroyerBody.DisplayName: Magic Destroyer Body
+	MagicDestroyerHead.DisplayName: Magic Destroyer Head
+	MagicDestroyerTail.DisplayName: Magic Destroyer Tail
+
+	CowboyOfYoyos1: {
+		BossChecklistIntegration.SpawnInfo: Use an Old Wanted Paper in the desert - all three cowboys must fall
+		DisplayName: Cowboy of Yoyos
+	}
+
+	CowboyOfYoyos2.DisplayName: Cowboy of Yoyos
+	CowboyOfYoyos3.DisplayName: Cowboy of Yoyos
+	AllKnowingWormCritter.DisplayName: All Knowing Worm Critter
+	GemBearingCritter.DisplayName: Gem Bearing Critter
+	GoldBearingCritter.DisplayName: Gold Bearing Critter
+	GoldenStringsCritter.DisplayName: Golden Strings Critter
+
+	AncientYoyoist: {
+		DisplayName: Ancient Yoyoist
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			HateBiome: I hate {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			HateNPC: I hate {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	BillyTheBearing.DisplayName: Billy The Bearing
+	MagicalYoyoPet.DisplayName: Magical Yoyo Pet
+
+	SixStringer: {
+		DisplayName: Six Stringer
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	YoyoCultist: {
+		DisplayName: Yoyo Cultist
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			HateBiome: I hate {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			HateNPC: I hate {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	YoyoMaster: {
+		DisplayName: Yoyo Master
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			HateNPC: I hate {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	YoyoTinkerer: {
+		DisplayName: Yoyo Tinkerer
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			HateBiome: I hate {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			HateNPC: I hate {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	ADDartYoyo.DisplayName: A D Dart Yoyo
+	ADShieldYoyo.DisplayName: A D Shield Yoyo
+}
+
+Configs: {
+	YoyoConfig: {
+		DisplayName: Yoyo Mod Settings
+
+		StorageUI: {
+			Label: Storage UI style
+			Tooltip: Standard is the current panel. Fancy is a gold-trimmed relic look.
+		}
+
+		BetterBook: {
+			Label: Better Book
+			Tooltip: Adds the chapter index, Back history, search snippets, wheel paging, a reading-progress line and a dimmed backdrop. The old catalogue skin is retired; the tome itself is always used.
+		}
+
+		WildStringSpeed: {
+			Label: Wild string spin speed
+			Tooltip: Scales ALL Wild String rotation. 1 is normal. Lower calms the ropes, higher whips them.
+		}
+
+		SplicerAutoCombatBoard: {
+			Label: Auto-open Combat board in boss fights
+			Tooltip: When a boss is alive, opening the Splicer starts on COMBAT if that board has a carried yoyo. Disable to keep the remembered board.
+		}
+
+		TonicHud: {
+			Label: Show tonic HUD
+			Tooltip: Compact right-edge strip listing the five yoyo tonics. LMB drinks when the dose would not be wasted; RMB toggles that tonic's auto upkeep.
+		}
+
+		Headers: {
+			Paintings: Paintings Header
+			Visuals: Visuals Header
+			Storage: Storage Header
+			StringSplicer: String Splicer Header
+			TonicSpool: Tonic Spool Header
+			Guidebook: Guidebook Header
+			VisualEffects: Visual Effects Header
+			ScreenShake: Screen Shake Header
+			CombatFeel: Combat Feel Header
+			Shaders: Shaders Header
+			Feedback: Feedback Header
+			TrapVisuals: Trap Visuals Header
+			Music: Music Header
+			LunaticYoyo: Lunatic Yoyo Header
+		}
+
+		TrapVisuals: {
+			Label: Trap Visuals
+			Tooltip: ""
+		}
+
+		PlayDefeatAfterMusic: {
+			Label: Play Defeat Aftermusic
+			Tooltip: ""
+		}
+
+		TorchTribute: {
+			Label: Torch Tribute
+			Tooltip: ""
+		}
+
+		ParrotLies: {
+			Label: Parrot Lies
+			Tooltip: ""
+		}
+
+		NightPaintingVariants: {
+			Label: Night Painting Variants
+			Tooltip: ""
+		}
+
+		DayPaintingVariants: {
+			Label: Day Painting Variants
+			Tooltip: ""
+		}
+
+		YoyoScreenshake: {
+			Tooltip: ""
+			Label: Yoyo Screenshake
+		}
+
+		YoyoVFX: {
+			Tooltip: ""
+			Label: Yoyo V F X
+		}
+
+		VisualQuality: {
+			Label: Visual Quality
+			Tooltip: ""
+		}
+
+		YoyoImpactStagger: {
+			Label: Yoyo Impact Stagger
+			Tooltip: ""
+		}
+
+		YoyoBlood: {
+			Label: Yoyo Blood
+			Tooltip: ""
+		}
+
+		YoyoShaders: {
+			Label: Yoyo Shaders
+			Tooltip: ""
+		}
+
+		Visuals: {
+			Label: Visuals
+			Tooltip: ""
+		}
+
+		Feedback: {
+			Label: Feedback
+			Tooltip: ""
+		}
+
+		LunaticSoftLightningBeam: {
+			Label: Lunatic Soft Lightning Beam
+			Tooltip: ""
+		}
+	}
+
+	YoyoServerConfig: {
+		DisplayName: Yoyo Server Settings
+
+		Headers: {
+			Guardian: Guardian Header
+			TrapPhysics: Trap Physics Header
+			TrapSpawns: Trap Spawns Header
+			TrapAlerts: Trap Alerts Header
+			Decor: Decor Header
+			MiniBossYoyos: Mini Boss Yoyos Header
+			MagicalTech: Magical Tech Header
+			GroundFault: Ground Fault Header
+		}
+
+		Difficulty: {
+			Tooltip:
+				'''
+				Hell multiplies the Guardian fight's HP by 3x and its damage by 1.5x.
+				Standard leaves the fight at its normal numbers.
+				'''
+			Label: Difficulty
+		}
+
+		RopeIterations: {
+			Label: Rope Iterations
+			Tooltip: ""
+		}
+
+		RopeSubsteps: {
+			Label: Rope Substeps
+			Tooltip: ""
+		}
+
+		StrainCadence: {
+			Label: Strain Cadence
+			Tooltip: ""
+		}
+
+		RopeBuzz: {
+			Label: Rope Buzz
+			Tooltip: ""
+		}
+
+		SpawnWildstringSnareInDungeon: {
+			Label: Wildstring Snare in Dungeon
+			Tooltip: Generate Wildstring Snares naturally in the Dungeon of newly created worlds.
+		}
+
+		SpawnWildstringSnareInCaverns: {
+			Label: Wildstring Snare in Caverns
+			Tooltip: Generate Wildstring Snares naturally in Caverns of newly created worlds.
+		}
+
+		SpawnBearingTrapInDungeon: {
+			Label: Bearing Trap in Dungeon
+			Tooltip: Generate Bearing Traps naturally in the Dungeon of newly created worlds.
+		}
+
+		SpawnBearingTrapInCaverns: {
+			Label: Bearing Trap in Caverns
+			Tooltip: Generate Bearing Traps naturally in Caverns of newly created worlds.
+		}
+
+		AnnounceVeteranMilestones: {
+			Label: Announce Veteran Milestones
+			Tooltip: ""
+		}
+
+		ReplaceVanillaPaintings: {
+			Label: Replace Vanilla Paintings
+			Tooltip: ""
+		}
+
+		DarkMageRitualCooldownSeconds: {
+			Label: Dark Mage Ritual Cooldown (seconds)
+			Tooltip:
+				'''
+				Seconds of continuous yoyo deployment between Dark Mage ritual seals.
+				Lower values overlap more seals (and their homing bolts). 2 is the mod default; the old hardcoded value was 20.
+				'''
+		}
+
+		HPMultiplier: {
+			Label: H P Multiplier
+			Tooltip: ""
+		}
+
+		DamageMultiplier: {
+			Label: Damage Multiplier
+			Tooltip: ""
+		}
+
+		EnableMagicalAbilities: {
+			Label: Enable Magical Abilities
+			Tooltip: ""
+		}
+
+		MagicalAbilityManaMultiplier: {
+			Label: Magical Ability Mana Multiplier
+			Tooltip: ""
+		}
+
+		OtherModYoyosGetAbilities: {
+			Label: Other Mod Yoyos Get Abilities
+			Tooltip: ""
+		}
+
+		GroundFault: {
+			Label: Ground Fault Mode
+			Tooltip:
+				'''
+				Concept switch for the Ground Fault lightning ability.
+				GroundHugger follows the surface under the bolt and arcs upward at enemies.
+				GravityBounce gives the bolt real gravity and tile bounces. No Ground Fault ability is implemented yet.
+				'''
+		}
+	}
+
+	TrapGenConfig: {
+		DisplayName: Trap Gen Config
+
+		SpawnWildstringSnareInDungeon: {
+			Label: Wildstring Snare in Dungeon
+			Tooltip: Generate Wildstring Snares naturally in the Dungeon of newly created worlds.
+		}
+
+		SpawnWildstringSnareInCaverns: {
+			Label: Wildstring Snare in Caverns
+			Tooltip: Generate Wildstring Snares naturally in Caverns of newly created worlds.
+		}
+
+		SpawnBearingTrapInDungeon: {
+			Label: Bearing Trap in Dungeon
+			Tooltip: Generate Bearing Traps naturally in the Dungeon of newly created worlds.
+		}
+
+		SpawnBearingTrapInCaverns: {
+			Label: Bearing Trap in Caverns
+			Tooltip: Generate Bearing Traps naturally in Caverns of newly created worlds.
+		}
+	}
+
+	YoyoGuardianMusicConfig: {
+		DefeatAfterMusic: {
+			Label: Defeat Aftermusic
+			Tooltip: Music file name inside Content/Music. Example: YGAM
+		}
+
+		PlayDefeatAfterMusic: {
+			Tooltip: ""
+			Label: Play Defeat Aftermusic
+		}
+
+		DisplayName: Yoyo Guardian Music Config
+	}
+
+	YoyoGuardianConfig: {
+		DisplayName: Yoyo Guardian Config
+
+		Difficulty: {
+			Tooltip:
+				'''
+				Hell multiplies the Guardian fight's HP by 3x and its damage by 1.5x.
+				Standard leaves the fight at its normal numbers.
+				'''
+			Label: Difficulty
+		}
+
+		Headers: {
+			Damage: Damage Header
+			Phase3ExpertAndAbove: Phase3 Expert And Above Header
+			Difficulty: Difficulty Header
+		}
+
+		BaseProjectileDamage: {
+			Label: Base Projectile Damage
+			Tooltip: ""
+		}
+
+		GuardianYoyoDamage: {
+			Label: Guardian Yoyo Damage
+			Tooltip: ""
+		}
+
+		WormContactDamage: {
+			Label: Worm Contact Damage
+			Tooltip: ""
+		}
+
+		StarGuardianContactDamage: {
+			Label: Star Guardian Contact Damage
+			Tooltip: ""
+		}
+
+		DesperationDashDamage: {
+			Label: Desperation Dash Damage
+			Tooltip: ""
+		}
+
+		UnderworldDamageMultiplier: {
+			Label: Underworld Damage Multiplier
+			Tooltip: ""
+		}
+
+		Phase3B2ExplosionDamage: {
+			Tooltip: ""
+			Label: Phase3 B2 Explosion Damage
+		}
+
+		Phase3DamageTakenMultiplier: {
+			Tooltip: ""
+			Label: Phase3 Damage Taken Multiplier
+		}
+
+		Phase3MasterHP: {
+			Tooltip: ""
+			Label: Phase3 Master H P
+		}
+
+		Phase3ExpertHP: {
+			Tooltip: ""
+			Label: Phase3 Expert H P
+		}
+
+		Phase3ClassicHP: {
+			Tooltip: ""
+			Label: Phase3 Classic H P
+		}
+
+		DamageMultiplier: {
+			Tooltip: ""
+			Label: Damage Multiplier
+		}
+
+		HPMultiplier: {
+			Tooltip: ""
+			Label: H P Multiplier
+		}
+	}
+
+	YoyoGuardianDifficulty: {
+		Hell: {
+			Tooltip: ""
+			Label: Hell
+		}
+
+		Standard: {
+			Tooltip: ""
+			Label: Standard
+		}
+
+		Tooltip: ""
+	}
+
+	AfterMusicMode: {
+		Off: {
+			Tooltip: ""
+			Label: Off
+		}
+
+		On: {
+			Tooltip: ""
+			Label: On
+		}
+
+		Always: {
+			Tooltip: ""
+			Label: Always
+		}
+
+		Tooltip: ""
+	}
+
+	ArcaneStarStyle: {
+		Off: {
+			Tooltip: ""
+			Label: Off
+		}
+
+		Variant1: {
+			Tooltip: ""
+			Label: Variant 1 - Lunar
+		}
+
+		Variant2: {
+			Tooltip: ""
+			Label: Variant 2 - Solar
+		}
+
+		Variant3: {
+			Tooltip: ""
+			Label: Variant 3 - Rift
+		}
+
+		Variant4: {
+			Tooltip: ""
+			Label: Variant 4 - Nova
+		}
+
+		Variant5: {
+			Tooltip: ""
+			Label: Variant 5 - Prism
+		}
+
+		Variant6: {
+			Tooltip: ""
+			Label: Variant 6 - Crescent
+		}
+
+		Variant7: {
+			Tooltip: ""
+			Label: Variant 7 - Slam
+		}
+
+		Variant8: {
+			Tooltip: ""
+			Label: Variant 8 - Lance
+		}
+
+		Variant9: {
+			Tooltip: ""
+			Label: Variant 9 - Vortex
+		}
+
+		Variant10: {
+			Tooltip: ""
+			Label: Variant 10 - Shatter
+		}
+
+		Variant11: {
+			Tooltip: ""
+			Label: Variant 11 - Bloom
+		}
+
+		Variant12: {
+			Tooltip: ""
+			Label: Variant 12 - Chain Arc
+		}
+
+		Variant13: {
+			Tooltip: ""
+			Label: Variant 13 - Sigil
+		}
+
+		Variant14: {
+			Tooltip: ""
+			Label: Variant 14 - Ray
+		}
+
+		Variant15: {
+			Tooltip: ""
+			Label: Variant 15 - Halo
+		}
+
+		Variant16: {
+			Tooltip: ""
+			Label: Variant 16 - Slash
+		}
+
+		Variant17: {
+			Tooltip: ""
+			Label: Variant 17 - Crosscut
+		}
+
+		Variant18: {
+			Tooltip: ""
+			Label: Variant 18 - Ripple
+		}
+
+		Variant19: {
+			Tooltip: ""
+			Label: Variant 19 - Quills
+		}
+
+		Variant20: {
+			Tooltip: ""
+			Label: Variant 20 - Comet
+		}
+
+		Variant21: {
+			Tooltip: ""
+			Label: Variant 21 - Eruption
+		}
+
+		Variant22: {
+			Tooltip: ""
+			Label: Variant 22 - Tempest
+		}
+
+		Variant23: {
+			Tooltip: ""
+			Label: Variant 23 - Bramble
+		}
+
+		Variant24: {
+			Tooltip: ""
+			Label: Variant 24 - Nebula
+		}
+
+		Variant25: {
+			Tooltip: ""
+			Label: Variant 25 - Tear
+		}
+
+		Variant26: {
+			Tooltip: ""
+			Label: Variant 26 - Salvo
+		}
+
+		Variant27: {
+			Tooltip: ""
+			Label: Variant 27 - Aurora
+		}
+
+		Variant28: {
+			Tooltip: ""
+			Label: Variant 28 - Web
+		}
+
+		Variant29: {
+			Tooltip: ""
+			Label: Variant 29 - Fangs
+		}
+
+		Variant30: {
+			Tooltip: ""
+			Label: Variant 30 - Eye
+		}
+
+		Variant31: {
+			Tooltip: ""
+			Label: Variant 31 - Sawblade
+		}
+
+		Variant32: {
+			Tooltip: ""
+			Label: Variant 32 - Magnet
+		}
+
+		Variant33: {
+			Tooltip: ""
+			Label: Variant 33 - Soundwave
+		}
+
+		Variant34: {
+			Tooltip: ""
+			Label: Variant 34 - Confetti
+		}
+
+		Variant35: {
+			Tooltip: ""
+			Label: Variant 35 - Glitch
+		}
+
+		Variant36: {
+			Tooltip: ""
+			Label: Variant 36 - Portal
+		}
+
+		Tooltip: ""
+
+		Variant37: {
+			Label: Variant37
+			Tooltip: ""
+		}
+
+		Variant38: {
+			Label: Variant38
+			Tooltip: ""
+		}
+
+		Variant39: {
+			Label: Variant39
+			Tooltip: ""
+		}
+
+		Variant40: {
+			Label: Variant40
+			Tooltip: ""
+		}
+
+		Variant41: {
+			Label: Variant41
+			Tooltip: ""
+		}
+	}
+
+	StorageUIStyle: {
+		Tooltip: ""
+
+		Standard: {
+			Label: Standard
+			Tooltip: ""
+		}
+
+		Fancy: {
+			Label: Fancy
+			Tooltip: ""
+		}
+	}
+
+	TrapNotifyConfig: {
+		DisplayName: Trap Notify Config
+
+		AnnounceVeteranMilestones: {
+			Label: Announce Veteran Milestones
+			Tooltip: ""
+		}
+	}
+
+	PaintingGenConfig: {
+		DisplayName: Painting Gen Config
+
+		ReplaceVanillaPaintings: {
+			Label: Replace Vanilla Paintings
+			Tooltip: ""
+		}
+	}
+
+	TrapVisualConfig: {
+		DisplayName: Trap Visual Config
+
+		StressRedWarning: {
+			Label: Stress Red Warning
+			Tooltip: ""
+		}
+
+		RopeShimmer: {
+			Label: Rope Shimmer
+			Tooltip: ""
+		}
+
+		SnapHalves: {
+			Label: Snap Halves
+			Tooltip: ""
+		}
+
+		StressGlow: {
+			Label: Stress Glow
+			Tooltip: ""
+		}
+
+		AmbientDust: {
+			Label: Ambient Dust
+			Tooltip: ""
+		}
+	}
+
+	TrapPhysicsConfig: {
+		DisplayName: Trap Physics Config
+
+		RopeIterations: {
+			Label: Rope Iterations
+			Tooltip: ""
+		}
+
+		RopeSubsteps: {
+			Label: Rope Substeps
+			Tooltip: ""
+		}
+
+		StrainCadence: {
+			Label: Strain Cadence
+			Tooltip: ""
+		}
+
+		RopeBuzz: {
+			Label: Rope Buzz
+			Tooltip: ""
+		}
+	}
+
+	YoyoVisualQuality: {
+		Tooltip: ""
+
+		Full: {
+			Label: Full
+			Tooltip: ""
+		}
+
+		Low: {
+			Label: Low
+			Tooltip: ""
+		}
+	}
+
+	YoyoVisualOptions: {
+		Tooltip: ""
+
+		Effects: {
+			Label: Effects
+			Tooltip: ""
+		}
+
+		Quality: {
+			Label: Quality
+			Tooltip: ""
+		}
+
+		ParticleAmount: {
+			Label: Particle Amount
+			Tooltip: ""
+		}
+
+		TorchTribute: {
+			Label: Torch Tribute
+			Tooltip: ""
+		}
+
+		UseShaders: {
+			Label: Use Shaders
+			Tooltip: ""
+		}
+
+		VertexStripTrailsExperimental: {
+			Label: Experimental Strip Trails
+			Tooltip: Experimental. Body trails use the Catmull-Rom ribbon by default (same renderer as the dev yoyo). Tick this to try the vertex-strip/shader renderer instead - it can pinch and look broken wherever the trail reverses direction.
+		}
+
+		SoftTrails: {
+			Label: Soft Trails
+			Tooltip: Soft feathered streak ribbons with a smooth taper and a soft additive hot core. Untick for the old hard-edged ribbon. The dev yoyo always keeps the old ribbon.
+		}
+
+		DutchmanSmokeRings: {
+			Label: Dutchman Smoke Rings
+			Tooltip: Untick to remove the broadside smoke-ring puffs on cannon volleys.
+		}
+
+		DarkMageRuneRing: {
+			Label: Dark Mage Rune Ring
+			Tooltip: Untick to remove the converging rune ring at the ritual's spawn.
+		}
+
+		OgreCrackDecal: {
+			Label: Ogre Crack Decal
+			Tooltip: Untick to remove the club-land ground crack and dirt-chip arcs.
+		}
+
+		DarkMageStar: {
+			Label: DarkMage Arcane Star
+			Tooltip: Style of the smooth star the ritual's magic bolt stamps on hit. Off keeps the vanilla sparkle.
+		}
+
+		Metaballs: {
+			Label: Metaballs
+			Tooltip: ""
+		}
+
+		MetaballLifetime: {
+			Label: Metaball Lifetime
+			Tooltip: How long the metaball fluid droplets live, as a multiplier on each attack's own droplet life (26-40 ticks). Higher makes the fluid linger longer before it fades out.
+		}
+
+		PixelateGlow: {
+			Label: Pixelate Glow
+			Tooltip: ""
+		}
+
+		Photosensitivity: {
+			Label: Photosensitivity
+			Tooltip: ""
+		}
+
+		ImpactClasses: {
+			Label: Impact Classes
+			Tooltip: ""
+		}
+
+		FadeShapes: {
+			Label: Fade Shapes
+			Tooltip: ""
+		}
+
+		VictimMarks: {
+			Label: Victim Marks
+			Tooltip: ""
+		}
+
+		TensionTells: {
+			Label: Tension Tells
+			Tooltip: ""
+		}
+
+		StyledMisses: {
+			Label: Styled Misses
+			Tooltip: ""
+		}
+
+		Reclaim: {
+			Label: Reclaim
+			Tooltip: ""
+		}
+
+		OwnershipTether: {
+			Label: Ownership Tether
+			Tooltip: ""
+		}
+
+		FamilyVoices: {
+			Label: Family Voices
+			Tooltip: ""
+		}
+
+		ForecastLanes: {
+			Label: Forecast Lanes
+			Tooltip: ""
+		}
+
+		SignatureAuras: {
+			Label: Signature Auras
+			Tooltip: ""
+		}
+
+		ContrastAnchors: {
+			Label: Contrast Anchors
+			Tooltip: ""
+		}
+
+		BodyLanguage: {
+			Label: Body Language
+			Tooltip: ""
+		}
+
+		SpinBlur: {
+			Label: Spin Blur
+			Tooltip: ""
+		}
+
+		ChargeBank: {
+			Label: Charge Bank
+			Tooltip: ""
+		}
+
+		GroundShadows: {
+			Label: Ground Shadows
+			Tooltip: ""
+		}
+
+		StringMaterial: {
+			Label: String Material
+			Tooltip: ""
+		}
+
+		SwingSmears: {
+			Label: Swing Smears
+			Tooltip: ""
+		}
+
+		BodyAppendages: {
+			Label: Body Appendages
+			Tooltip: ""
+		}
+
+		ShapeArt: {
+			Label: Shape Art
+			Tooltip: ""
+		}
+
+		LightOcclusion: {
+			Label: Light Occlusion
+			Tooltip: ""
+		}
+
+		MetaballAmount: {
+			Label: Metaball Amount
+			Tooltip: ""
+		}
+	}
+
+	YoyoFeedbackOptions: {
+		Tooltip: ""
+
+		Screenshake: {
+			Label: Screenshake
+			Tooltip: ""
+		}
+
+		ImpactStagger: {
+			Label: Impact Stagger
+			Tooltip: ""
+		}
+
+		ParrotLies: {
+			Label: Parrot Lies
+			Tooltip: ""
+		}
+	}
+
+	YoyoTrapVisualOptions: {
+		Tooltip: ""
+
+		StressRedWarning: {
+			Label: Stress Red Warning
+			Tooltip: ""
+		}
+
+		RopeShimmer: {
+			Label: Rope Shimmer
+			Tooltip: ""
+		}
+
+		SnapHalves: {
+			Label: Snap Halves
+			Tooltip: ""
+		}
+
+		StressGlow: {
+			Label: Stress Glow
+			Tooltip: ""
+		}
+
+		AmbientDust: {
+			Label: Ambient Dust
+			Tooltip: ""
+		}
+	}
+
+	ShapeArtSource: {
+		Tooltip: ""
+
+		Generated: {
+			Label: Generated
+			Tooltip: ""
+		}
+
+		Procedural: {
+			Label: Procedural
+			Tooltip: ""
+		}
+	}
+
+	GroundFaultMode: {
+		Tooltip: ""
+
+		GroundHugger: {
+			Label: Ground Hugger
+			Tooltip: ""
+		}
+
+		GravityBounce: {
+			Label: Gravity Bounce
+			Tooltip: ""
+		}
+	}
+}
+
+BossChecklistIntegration: {
+	YoyoGuardian.SpawnInfo: Mods.BiltonsYoyoMod.BossChecklistIntegration.YoyoGuardian.SpawnInfo
+	GiantBearing.SpawnInfo: Mods.BiltonsYoyoMod.BossChecklistIntegration.GiantBearing.SpawnInfo
+	CowboyOfYoyos.SpawnInfo: Mods.BiltonsYoyoMod.BossChecklistIntegration.CowboyOfYoyos.SpawnInfo
+	AncientDuelist.SpawnInfo: Mods.BiltonsYoyoMod.BossChecklistIntegration.AncientDuelist.SpawnInfo
+	BearingParty.EntryName: Bearing Party
+}
+
+Tiles: {
+	NightYoyoPaintingTile.MapEntry: Night Yoyo Painting Tile
+	StringyDayPaintingTile.MapEntry: Stringy Day Painting Tile
+}

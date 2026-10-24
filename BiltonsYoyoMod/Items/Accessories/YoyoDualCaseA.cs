@@ -1,0 +1,1 @@
+namespace BiltonsYoyoMod.Items { public sealed class YoyoDualCaseA : YoyoStorageCase { public override string Texture => "BiltonsYoyoMod/Items/Accessories/YoyoDualCaseA"; public override int StorageTier => 1; public override int[] StorageSlots => new[] { 0, 1 }; } }

@@ -1,0 +1,20 @@
+BiltonB Yoyo Additions adds boss yoyos, yoyo accessories, NPCs, bosses and events throughout the game!
+
+Boss yoyos (25% Classic drop, 25% Expert/Master bag unless noted, Eye 33%):
+- Pre-Hardmode: Eye Yoyo, Royal Yoyo, Corruption Yoyo, Crimson Yoyo, Bee Yoyo, Skeletron Yoyo, Deer Yoyo, Flesh Yoyo
+- Hardmode: Destroyer Yoyo, Twins Yoyo, Prime Yoyo, Hallow Yoyo, Duke Yoyo, Lunatic Yoyo (25% direct, no bag), Golem Yoyo, Plantera Yoyo, Empress Yoyo, Solar Yoyo (craft-only)
+- Endgame: Lord Yoyo (25% drop + alt craft), Guardian Yoyo (underground 100%), Charged Guardian Yoyo (underworld 100%)
+- Mini-boss: Ancient Yoyo (Ancient Duelist 50%), Heavy Yoyo (Giant Bearing 25% + craft), Specialized Yoyo (Cowboys 5% + craft)
+- Shop / craft yoyos: Enchanted Yoyo, Cultist Yoyo, Forbidden Yoyo, Selene Coil Yoyo, Gold Yoyo, Lucky Yoyo, Illegal Yoyo, Super Gold Yoyo, Stringer's Special, Random Yoyo
+
+* Accessories / gear:
+- Yoyo Adrenaline, Yoyo Sub-Emblem / Golden Sub-Emblem, 6 Trick Books, 5 Wild Strings, 7 Loose Bearings, 4 Finger Loops, 4 Axles, 5 Response Pads, 5 Tension Bearings, 3 String Cutters, 4 Duplicators, 7 storage Cases (+ Shimmer variants), T0-T10 Tier Emblems, Ancient + Black-Market accessories, 5 yoyo tonics
+
+* NPCs / Bosses / Event:
+- Town: Yoyo Master, Yoyo Tinkerer (mods), Ancient Yoyoist (spells)
+- Night visitors: Six Stringer, Yoyo Cultist - Pets: Billy the Bearing, Magical Yoyo
+- Bosses: Yoyo Guardian, Cowboys of Yoyos trio, Giant Bearing + Bearing Party event, Ancient Duelist
+- Critters, materials, shimmer + trade support, Boss Checklist support
+
+See description_workshop.txt for full obtain methods + changelog v1.341.
+Try it :D

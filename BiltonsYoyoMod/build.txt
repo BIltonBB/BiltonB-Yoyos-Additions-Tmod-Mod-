@@ -1,0 +1,4 @@
+displayName = BiltonB Yoyo Additions
+author = BiltonB
+version = 1.359
+weakReferences = Luminance

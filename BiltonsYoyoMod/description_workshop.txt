@@ -1,0 +1,75 @@
+BiltonB Yoyo Additions adds boss yoyos, yoyo accessories, NPCs, bosses and events throughout the game!
+
+Boss yoyos (25% Classic drop, 25% Expert/Master bag unless noted, Eye 33%):
+- Pre-Hardmode: Eye Yoyo, Royal Yoyo, Corruption Yoyo, Crimson Yoyo, Bee Yoyo, Skeletron Yoyo, Deer Yoyo, Flesh Yoyo
+- Hardmode: Destroyer Yoyo, Twins Yoyo, Prime Yoyo, Hallow Yoyo, Duke Yoyo, Lunatic Yoyo (25% direct, no bag), Golem Yoyo, Plantera Yoyo, Empress Yoyo, Solar Yoyo (craft-only: Wood Yoyo + 25 Solar Fragments + 5 Guardian Cores + 1 Pure Emblem)
+- Endgame: Lord Yoyo (25% drop + alt craft from 17 boss yoyos + Guardian Cores + Pure Emblems), Guardian Yoyo (underground 100%), Charged Guardian Yoyo (underworld 100%)
+- Mini-boss: Ancient Yoyo (Ancient Duelist 50%), Heavy Yoyo (Giant Bearing 25% + craft), Specialized Yoyo (Cowboys 5% + craft)
+- Shop / craft yoyos: Enchanted Yoyo, Cultist Yoyo, Forbidden Yoyo, Selene Coil Yoyo, Gold Yoyo, Lucky Yoyo, Illegal Yoyo, Super Gold Yoyo, Stringer's Special, Random Yoyo (Cultist shop)
+
+* Accessories / gear:
+- Yoyo Adrenaline (Queen Slime 25% + craft), Yoyo Sub-Emblem (WoF 25% + shimmer/trade) / Golden Sub-Emblem (craft)
+- 6 Trick Books (Sleeper, WalkTheDog, EiffelTower, Elevator, BoingyBoing, DNA), 5 Wild Strings, 7 Loose Bearings, 4 Finger Loops, 4 Axles, 5 Response Pads, 5 Tension Bearings, 3 String Cutters, 4 Duplicators
+- 7 storage Cases (Case/Dual/Brief/Collection/BackPack/Ruck/Vault + Shimmer variants), T0-T10 Tier Emblems, Ancient + Black-Market accessories, Tangled/Barbed Strings
+- Consumables/buffs: Bearing Oil, Cultist's Draught, String Wax, Moonlight Flask, Honey Spool, Yoyo of Insight, Magical Essence (pet buff)
+
+* NPCs / Bosses / Event:
+- Town: Yoyo Master (post-EoC, trades + cases/tricks/emblems), Yoyo Tinkerer (mods + materials), Ancient Yoyoist (spells + insight)
+- Night visitors: Six Stringer (post-Cowboys, black market), Yoyo Cultist (post-Skeletron, ancient gear)
+- Pets: Billy the Bearing (post-Giant Bearing, upgradeable bodyguard), Magical Yoyo (post-evil, +5% damage buff)
+- Bosses: Yoyo Guardian (Trial of the Guardian, underground/underworld loot), Cowboys of Yoyos trio (Old Wanted Paper, desert), Giant Bearing (Bearing Party 100 kills / Bearing Caller, caverns), Ancient Duelist (Ancient Wanted Paper)
+- Event: Bearing Party (10 min, post-Skeletron caverns), Critters, materials, shimmer + trade support, Boss Checklist support
+
+Expect some changes!
+Try it :D
+
+Change logs:
+Terraria BiltonB's Yoyo Additions
+
+* Update Log : (v1.341)
+-NEW yoyos:
+Guardian Yoyo (underground) + Charged Guardian Yoyo (underworld), Ancient Yoyo, Heavy Yoyo, Specialized Yoyo, Solar Yoyo (NEW craft), Lord Yoyo NEW alt craft, Enchanted / Cultist / Forbidden / Selene Coil, Gold / Lucky / Illegal / Super Gold / Stringer's Special, Random Yoyo.
+-NEW accessories / gear:
+6 Trick Books, 5 Wild Strings, 7 Loose Bearings, 4 Finger Loops, 4 Axles, 5 Response Pads, 5 Tension Bearings, 3 String Cutters, 4 Duplicators, 7 storage Cases (+ Shimmer variants), T0-T10 Tier Emblems, Ancient + Black-Market accessories, Tangled / Barbed Strings, Golden Sub-Emblem (NEW craft), Yoyo Adrenaline craft, 5 yoyo tonics + buffs.
+-NEW NPCs / bosses / event:
+Yoyo Master, Yoyo Tinkerer (mods), Ancient Yoyoist (spells), Six Stringer, Yoyo Cultist, Billy the Bearing, Magical Yoyo pet, Yoyo Guardian (+ arena/phases), Cowboys trio, Giant Bearing + Bearing Party event + Bearing Caller, Ancient Duelist, critters, Boss Checklist support.
+-NEW materials (did NOT exist in v0.93):
+Guardian Core, Pure Emblem Y (NEW crafting material), Yoyo Scraps, Yoyo Parts, Advanced Yoyo Parts, Ancient Scraps, Magical Essence material, Illegal Yoyo Parts. Used across Cases / Bearings / Vault / Duplicators / Emblems / Solar / Lord-alt by tier.
+Summon items now obtainable: Old Wanted Paper (NEW craft), Bearing Caller (NEW craft), Trial of the Guardian + Ancient Wanted Paper (shop + craft).
+Shimmer + Master trades added. Cost softenings (ACB Silk, BackPack mats, T3/T4/T5/T7, Adv Mold).
+
+-Note: still some bugs, balancing, and polishing needed.
+
+* Update Log : (v0.93 - yoyos only)
+Major Revamp (Yoyo Revamp)
+
+-Pre-Hardmode:
+Eye Yoyo : Reworked into an occasional dash toward nearby enemies.
+Corruption Yoyo : Improved distance based trails, afterimages, and spike behavior.
+Bee Yoyo : Fixed honey radius and projectile tracking issues.
+Crimson Yoyo : Clone spawning is now based on HP instead of hits.
+Deer Yoyo : Improved radius visuals and fade animations.
+Skeletron Yoyo : Bones now smoothly chase and track enemies.
+Royal Yoyo : Vertical pulls can trigger a powerful double damage attack.
+Flesh Yoyo : Improved minion attachment and patterned laser behavior.
+
+-Hardmode:
+Destroyer Yoyo : Reworked into a connected 10 clone worm/orbit system with chasing and lasers.
+Twins Yoyo : Retinazer and Spazmatism now alternate as the main yoyo with unique attacks.
+Prime Yoyo : Replaced the old hands with four specialized Prime weapons.
+Hallow Yoyo : Added three orbiting slimes that attack enemies when the player is hit.
+Duke Yoyo : Replaced the old wave attack with timed, fading vortex projectiles.
+Lunatic Yoyo : Added a 10-second cycle between lightning, ice, and clone attacks.
+Solar Yoyo : Added random solar projectiles and enemy tracking companions.
+Golem Yoyo : Reworked hands, added a defensive core, lasers, bouncing projectiles, and counterattacks.
+Plantera Yoyo : Added aggressive, oscillating eaters that can latch onto enemies.
+Empress Yoyo : Completely reworked with a lot of new attacks, day/night attack patterns, and HP based phases.
+
+-Endgame:
+Lord Yoyo : Completely reworked with new attacks, phases, projectiles, and visual effects.
+
+-Accessory:
+Yoyo Adrenaline : Reworked into a 20-hit charge system that grants 1.5x yoyo damage for 5 seconds, with a new visual charge/timer bar.
+Yoyo Sub-Emblem / Golden Emblem : Redesigned to better match Terraria's emblem style.
+
+Note : There are still some bugs, balancing, and polishing needed

@@ -1,0 +1,1 @@
+namespace BiltonsYoyoMod.Items { public sealed class YoyoBackPackA : YoyoStorageCase { public override string Texture => "BiltonsYoyoMod/Items/Accessories/YoyoBackPackA"; public override int StorageTier => 4; public override int[] StorageSlots => new[] { 0, 3, 6, 9, 10, 11, 15, 16 }; } }
